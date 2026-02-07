@@ -1,0 +1,1201 @@
+inquiry_type,project_type,service_needed,budget_range,project_timeline,city,preferred_contact,message_length,lead_score
+Dealership Inquiry,Residential,Special Effects & Textures,"Below ₹10,000",1-4 Weeks,Bengaluru,WhatsApp,154,0
+Bulk Order Inquiry,Residential,Color Consultation,"₹50,000 - ₹2,00,000",1-3 Months,Delhi,Email,56,0
+Dealership Inquiry,Commercial,Professional Painting,"Below ₹10,000",Urgent (Within 1 Week),Kochi,WhatsApp,319,1
+Product Inquiry,Industrial,Exterior Solutions,"₹2,00,000 - ₹10,00,000",1-3 Months,Pune,Phone,121,1
+Product Inquiry,Commercial,Color Consultation,"Above ₹10,00,000",1-4 Weeks,Pune,Phone,87,1
+Dealership Inquiry,Residential,Exterior Solutions,"₹2,00,000 - ₹10,00,000",1-3 Months,Bengaluru,WhatsApp,314,1
+Product Inquiry,Industrial,Professional Painting,"₹50,000 - ₹2,00,000",3+ Months,Bengaluru,Email,225,0
+Dealership Inquiry,Residential,Exterior Solutions,"₹2,00,000 - ₹10,00,000",3+ Months,Hyderabad,Phone,159,1
+Dealership Inquiry,Industrial,Interior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Bengaluru,WhatsApp,147,0
+Dealership Inquiry,Commercial,Interior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Trivandrum,Email,276,1
+Dealership Inquiry,Residential,Maintenance Program,"₹2,00,000 - ₹10,00,000",1-3 Months,Pune,Phone,157,1
+Product Inquiry,Residential,Special Effects & Textures,"₹10,000 - ₹50,000",3+ Months,Kochi,Phone,201,0
+Bulk Order Inquiry,Residential,Special Effects & Textures,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Trivandrum,WhatsApp,111,1
+Product Inquiry,Commercial,Professional Painting,"₹50,000 - ₹2,00,000",3+ Months,Mumbai,WhatsApp,244,0
+General Feedback,Industrial,Professional Painting,"₹2,00,000 - ₹10,00,000",3+ Months,Coimbatore,WhatsApp,118,1
+Product Inquiry,Commercial,Commercial Services,"₹10,000 - ₹50,000",3+ Months,Chennai,WhatsApp,310,0
+Bulk Order Inquiry,Industrial,Interior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Bengaluru,Phone,176,0
+General Feedback,Industrial,Maintenance Program,"₹10,000 - ₹50,000",3+ Months,Mumbai,WhatsApp,174,0
+Other,Industrial,Professional Painting,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Mumbai,Phone,299,1
+Bulk Order Inquiry,Residential,Commercial Services,"₹50,000 - ₹2,00,000",1-3 Months,Pune,Phone,311,0
+Product Inquiry,Residential,Color Consultation,"Above ₹10,00,000",3+ Months,Delhi,WhatsApp,197,1
+Other,Industrial,Maintenance Program,"Below ₹10,000",1-4 Weeks,Mumbai,Email,75,0
+Dealership Inquiry,Industrial,Exterior Solutions,"Above ₹10,00,000",Urgent (Within 1 Week),Delhi,WhatsApp,310,2
+Bulk Order Inquiry,Industrial,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-3 Months,Pune,Phone,244,1
+Bulk Order Inquiry,Commercial,Color Consultation,"₹10,000 - ₹50,000",1-4 Weeks,Madurai,WhatsApp,72,0
+Product Inquiry,Residential,Color Consultation,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Chennai,Phone,70,0
+Product Inquiry,Industrial,Professional Painting,"₹10,000 - ₹50,000",1-3 Months,Madurai,WhatsApp,149,0
+General Feedback,Residential,Color Consultation,"₹2,00,000 - ₹10,00,000",1-3 Months,Coimbatore,Phone,137,1
+General Feedback,Residential,Exterior Solutions,"₹10,000 - ₹50,000",1-3 Months,Pune,Email,90,0
+Product Inquiry,Residential,Interior Solutions,"Below ₹10,000",1-4 Weeks,Kochi,Email,256,0
+Bulk Order Inquiry,Residential,Color Consultation,"Below ₹10,000",1-3 Months,Trivandrum,Email,321,0
+Other,Commercial,Exterior Solutions,"Above ₹10,00,000",1-3 Months,Kochi,Email,125,1
+Bulk Order Inquiry,Commercial,Interior Solutions,"Above ₹10,00,000",Urgent (Within 1 Week),Kochi,Phone,41,2
+General Feedback,Industrial,Special Effects & Textures,"Above ₹10,00,000",3+ Months,Kochi,Email,324,1
+Product Inquiry,Residential,Special Effects & Textures,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Pune,Email,317,0
+Product Inquiry,Residential,Color Consultation,"₹10,000 - ₹50,000",3+ Months,Trivandrum,Email,311,0
+Bulk Order Inquiry,Commercial,Color Consultation,"Below ₹10,000",Urgent (Within 1 Week),Madurai,Email,160,1
+Dealership Inquiry,Industrial,Commercial Services,"Below ₹10,000",Urgent (Within 1 Week),Pune,Phone,338,2
+Product Inquiry,Residential,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-4 Weeks,Hyderabad,Phone,242,0
+Technical Support,Industrial,Commercial Services,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Bengaluru,Email,274,1
+Dealership Inquiry,Residential,Professional Painting,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Pune,Phone,218,1
+Product Inquiry,Residential,Special Effects & Textures,"₹2,00,000 - ₹10,00,000",1-3 Months,Trivandrum,Phone,310,1
+Other,Residential,Color Consultation,"Below ₹10,000",3+ Months,Trivandrum,Email,175,0
+Product Inquiry,Industrial,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-3 Months,Hyderabad,WhatsApp,144,0
+General Feedback,Industrial,Exterior Solutions,"Above ₹10,00,000",1-3 Months,Hyderabad,Email,87,1
+Product Inquiry,Residential,Special Effects & Textures,"₹2,00,000 - ₹10,00,000",1-3 Months,Kochi,WhatsApp,174,1
+Bulk Order Inquiry,Industrial,Color Consultation,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Pune,WhatsApp,116,1
+Dealership Inquiry,Residential,Interior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Delhi,WhatsApp,226,1
+Product Inquiry,Industrial,Special Effects & Textures,"Below ₹10,000",1-3 Months,Mumbai,Email,248,0
+Bulk Order Inquiry,Residential,Professional Painting,"Above ₹10,00,000",1-3 Months,Pune,Phone,251,1
+Bulk Order Inquiry,Residential,Maintenance Program,"₹2,00,000 - ₹10,00,000",1-3 Months,Bengaluru,Phone,176,1
+Bulk Order Inquiry,Commercial,Interior Solutions,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Delhi,Email,275,1
+Product Inquiry,Commercial,Interior Solutions,"Below ₹10,000",1-4 Weeks,Trivandrum,Phone,75,0
+Dealership Inquiry,Residential,Interior Solutions,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Mumbai,WhatsApp,54,1
+Other,Commercial,Special Effects & Textures,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Pune,Phone,262,0
+Dealership Inquiry,Residential,Interior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Chennai,WhatsApp,335,1
+General Feedback,Commercial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Bengaluru,WhatsApp,140,0
+Other,Industrial,Interior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Trivandrum,Phone,103,0
+Dealership Inquiry,Residential,Professional Painting,"₹10,000 - ₹50,000",1-3 Months,Coimbatore,WhatsApp,323,0
+Other,Commercial,Exterior Solutions,"₹50,000 - ₹2,00,000",3+ Months,Trivandrum,Email,331,0
+Technical Support,Industrial,Interior Solutions,"₹10,000 - ₹50,000",1-3 Months,Kochi,Phone,350,0
+General Feedback,Industrial,Color Consultation,"₹10,000 - ₹50,000",1-4 Weeks,Hyderabad,WhatsApp,126,0
+Dealership Inquiry,Industrial,Interior Solutions,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Delhi,Email,160,1
+Product Inquiry,Commercial,Exterior Solutions,"Below ₹10,000",3+ Months,Madurai,Email,77,0
+Bulk Order Inquiry,Industrial,Special Effects & Textures,"₹10,000 - ₹50,000",1-4 Weeks,Chennai,Email,115,0
+Bulk Order Inquiry,Commercial,Color Consultation,"₹10,000 - ₹50,000",1-3 Months,Trivandrum,Email,305,0
+Other,Industrial,Commercial Services,"Below ₹10,000",Urgent (Within 1 Week),Trivandrum,WhatsApp,277,0
+Technical Support,Commercial,Maintenance Program,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Trivandrum,Phone,298,1
+Bulk Order Inquiry,Residential,Maintenance Program,"₹50,000 - ₹2,00,000",1-4 Weeks,Hyderabad,WhatsApp,172,0
+General Feedback,Residential,Interior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Pune,Phone,186,0
+Bulk Order Inquiry,Industrial,Professional Painting,"Below ₹10,000",Urgent (Within 1 Week),Delhi,Email,236,1
+General Feedback,Residential,Maintenance Program,"₹10,000 - ₹50,000",1-4 Weeks,Coimbatore,Phone,71,0
+Other,Commercial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Chennai,Phone,334,0
+Product Inquiry,Industrial,Special Effects & Textures,"₹10,000 - ₹50,000",3+ Months,Trivandrum,WhatsApp,254,0
+Bulk Order Inquiry,Residential,Exterior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Pune,WhatsApp,288,0
+Dealership Inquiry,Residential,Commercial Services,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Trivandrum,Email,279,1
+Other,Industrial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Mumbai,Phone,82,0
+Product Inquiry,Commercial,Interior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Coimbatore,Phone,272,0
+Bulk Order Inquiry,Commercial,Color Consultation,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Trivandrum,Email,81,1
+Other,Residential,Professional Painting,"₹10,000 - ₹50,000",1-3 Months,Delhi,Email,60,0
+Dealership Inquiry,Industrial,Professional Painting,"₹10,000 - ₹50,000",1-4 Weeks,Kochi,WhatsApp,98,0
+Product Inquiry,Residential,Interior Solutions,"₹10,000 - ₹50,000",1-3 Months,Bengaluru,WhatsApp,98,0
+Product Inquiry,Commercial,Special Effects & Textures,"₹10,000 - ₹50,000",1-3 Months,Delhi,Email,232,0
+Dealership Inquiry,Industrial,Commercial Services,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Bengaluru,WhatsApp,194,1
+Bulk Order Inquiry,Residential,Commercial Services,"₹10,000 - ₹50,000",1-4 Weeks,Pune,Email,229,0
+Bulk Order Inquiry,Industrial,Maintenance Program,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Kochi,WhatsApp,225,2
+Product Inquiry,Industrial,Maintenance Program,"Below ₹10,000",1-4 Weeks,Trivandrum,Phone,178,0
+General Feedback,Residential,Maintenance Program,"₹2,00,000 - ₹10,00,000",1-3 Months,Bengaluru,Phone,205,1
+Bulk Order Inquiry,Commercial,Color Consultation,"₹10,000 - ₹50,000",1-4 Weeks,Kochi,Phone,234,0
+Product Inquiry,Commercial,Commercial Services,"₹10,000 - ₹50,000",1-3 Months,Hyderabad,WhatsApp,214,0
+Product Inquiry,Commercial,Commercial Services,"Above ₹10,00,000",Urgent (Within 1 Week),Delhi,WhatsApp,248,1
+General Feedback,Residential,Interior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Delhi,Phone,48,0
+Dealership Inquiry,Industrial,Commercial Services,"₹10,000 - ₹50,000",1-3 Months,Pune,Phone,282,0
+Other,Commercial,Interior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Hyderabad,Email,272,0
+Product Inquiry,Industrial,Professional Painting,"Below ₹10,000",Urgent (Within 1 Week),Delhi,Email,314,0
+Bulk Order Inquiry,Industrial,Interior Solutions,"₹10,000 - ₹50,000",1-3 Months,Bengaluru,Email,308,1
+Product Inquiry,Residential,Interior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Chennai,Email,313,0
+Dealership Inquiry,Residential,Maintenance Program,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Chennai,WhatsApp,291,1
+Product Inquiry,Commercial,Maintenance Program,"₹10,000 - ₹50,000",1-4 Weeks,Kochi,Email,66,0
+Bulk Order Inquiry,Residential,Professional Painting,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Madurai,Phone,67,1
+Product Inquiry,Industrial,Commercial Services,"₹10,000 - ₹50,000",1-3 Months,Madurai,Email,253,0
+Bulk Order Inquiry,Industrial,Exterior Solutions,"₹10,000 - ₹50,000",3+ Months,Hyderabad,WhatsApp,192,0
+Dealership Inquiry,Industrial,Professional Painting,"₹50,000 - ₹2,00,000",1-3 Months,Hyderabad,WhatsApp,146,0
+Product Inquiry,Residential,Exterior Solutions,"₹10,000 - ₹50,000",1-3 Months,Kochi,WhatsApp,120,0
+Dealership Inquiry,Industrial,Maintenance Program,"₹10,000 - ₹50,000",1-4 Weeks,Kochi,Email,184,0
+Dealership Inquiry,Industrial,Maintenance Program,"Above ₹10,00,000",1-3 Months,Delhi,Phone,341,1
+Product Inquiry,Residential,Color Consultation,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Chennai,Email,176,0
+Bulk Order Inquiry,Commercial,Color Consultation,"₹50,000 - ₹2,00,000",1-3 Months,Kochi,WhatsApp,187,0
+Technical Support,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Bengaluru,WhatsApp,316,0
+Product Inquiry,Residential,Color Consultation,"₹10,000 - ₹50,000",1-4 Weeks,Delhi,WhatsApp,168,0
+Bulk Order Inquiry,Industrial,Color Consultation,"₹50,000 - ₹2,00,000",3+ Months,Mumbai,Phone,177,0
+Dealership Inquiry,Commercial,Special Effects & Textures,"₹10,000 - ₹50,000",1-4 Weeks,Kochi,Email,339,0
+General Feedback,Residential,Interior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Coimbatore,WhatsApp,93,0
+General Feedback,Residential,Exterior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Bengaluru,Phone,321,1
+Product Inquiry,Residential,Special Effects & Textures,"Below ₹10,000",1-3 Months,Trivandrum,Phone,303,0
+General Feedback,Industrial,Exterior Solutions,"Below ₹10,000",1-4 Weeks,Chennai,Email,295,0
+Product Inquiry,Residential,Color Consultation,"Below ₹10,000",1-4 Weeks,Madurai,Email,288,0
+Bulk Order Inquiry,Residential,Professional Painting,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Bengaluru,Phone,248,1
+Other,Industrial,Special Effects & Textures,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Hyderabad,Phone,189,0
+Bulk Order Inquiry,Residential,Exterior Solutions,"Above ₹10,00,000",1-4 Weeks,Delhi,WhatsApp,322,1
+Dealership Inquiry,Commercial,Interior Solutions,"₹2,00,000 - ₹10,00,000",3+ Months,Trivandrum,Phone,181,1
+Bulk Order Inquiry,Industrial,Special Effects & Textures,"₹10,000 - ₹50,000",1-4 Weeks,Kochi,Email,340,0
+General Feedback,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Pune,Email,318,0
+Other,Residential,Interior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Kochi,WhatsApp,250,0
+Other,Commercial,Color Consultation,"₹10,000 - ₹50,000",3+ Months,Mumbai,WhatsApp,117,0
+Other,Residential,Commercial Services,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Kochi,Email,265,0
+Bulk Order Inquiry,Residential,Exterior Solutions,"₹10,000 - ₹50,000",1-3 Months,Hyderabad,Phone,119,0
+Dealership Inquiry,Industrial,Maintenance Program,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Trivandrum,Phone,208,1
+Other,Industrial,Color Consultation,"₹50,000 - ₹2,00,000",3+ Months,Madurai,Email,289,0
+Product Inquiry,Industrial,Color Consultation,"₹50,000 - ₹2,00,000",1-4 Weeks,Coimbatore,Email,156,0
+Bulk Order Inquiry,Industrial,Interior Solutions,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Chennai,Email,125,1
+Technical Support,Residential,Professional Painting,"Below ₹10,000",1-4 Weeks,Trivandrum,Phone,260,0
+Dealership Inquiry,Industrial,Maintenance Program,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Coimbatore,WhatsApp,80,2
+Dealership Inquiry,Commercial,Special Effects & Textures,"₹10,000 - ₹50,000",1-3 Months,Hyderabad,Phone,158,0
+Product Inquiry,Industrial,Commercial Services,"Below ₹10,000",1-3 Months,Mumbai,Email,187,0
+General Feedback,Industrial,Interior Solutions,"₹10,000 - ₹50,000",1-3 Months,Kochi,Phone,257,0
+Product Inquiry,Commercial,Commercial Services,"₹10,000 - ₹50,000",1-4 Weeks,Pune,WhatsApp,161,0
+Product Inquiry,Commercial,Color Consultation,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Madurai,WhatsApp,242,0
+Bulk Order Inquiry,Commercial,Maintenance Program,"Above ₹10,00,000",3+ Months,Delhi,WhatsApp,294,2
+Bulk Order Inquiry,Industrial,Maintenance Program,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Mumbai,WhatsApp,168,1
+Product Inquiry,Residential,Commercial Services,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Pune,WhatsApp,265,0
+Product Inquiry,Residential,Professional Painting,"Above ₹10,00,000",1-4 Weeks,Mumbai,WhatsApp,252,1
+Bulk Order Inquiry,Residential,Interior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Kochi,Phone,179,0
+Bulk Order Inquiry,Residential,Maintenance Program,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Delhi,WhatsApp,78,1
+Bulk Order Inquiry,Commercial,Color Consultation,"Above ₹10,00,000",3+ Months,Coimbatore,Email,325,1
+Product Inquiry,Industrial,Exterior Solutions,"Below ₹10,000",1-4 Weeks,Pune,Email,174,0
+Dealership Inquiry,Commercial,Commercial Services,"₹10,000 - ₹50,000",1-3 Months,Delhi,WhatsApp,327,0
+Product Inquiry,Industrial,Exterior Solutions,"₹2,00,000 - ₹10,00,000",3+ Months,Bengaluru,Email,194,1
+Product Inquiry,Residential,Professional Painting,"Below ₹10,000",3+ Months,Trivandrum,Email,99,0
+Technical Support,Commercial,Commercial Services,"₹10,000 - ₹50,000",3+ Months,Mumbai,Phone,316,0
+Dealership Inquiry,Residential,Special Effects & Textures,"₹2,00,000 - ₹10,00,000",1-3 Months,Pune,Email,183,1
+General Feedback,Industrial,Interior Solutions,"Above ₹10,00,000",3+ Months,Trivandrum,WhatsApp,90,1
+Technical Support,Commercial,Color Consultation,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Delhi,WhatsApp,102,0
+Dealership Inquiry,Residential,Professional Painting,"Above ₹10,00,000",Urgent (Within 1 Week),Madurai,Email,210,2
+Product Inquiry,Residential,Interior Solutions,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Mumbai,WhatsApp,150,1
+Product Inquiry,Industrial,Interior Solutions,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Mumbai,Email,106,1
+Dealership Inquiry,Industrial,Interior Solutions,"Below ₹10,000",Urgent (Within 1 Week),Chennai,Email,161,1
+Product Inquiry,Industrial,Color Consultation,"Below ₹10,000",1-4 Weeks,Kochi,Phone,98,0
+Bulk Order Inquiry,Residential,Commercial Services,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Chennai,WhatsApp,297,1
+Bulk Order Inquiry,Industrial,Color Consultation,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Chennai,Phone,274,1
+Bulk Order Inquiry,Residential,Color Consultation,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Pune,WhatsApp,267,1
+Product Inquiry,Industrial,Special Effects & Textures,"Below ₹10,000",1-3 Months,Pune,Phone,339,0
+Other,Commercial,Color Consultation,"₹50,000 - ₹2,00,000",1-4 Weeks,Bengaluru,WhatsApp,349,0
+Dealership Inquiry,Commercial,Exterior Solutions,"₹2,00,000 - ₹10,00,000",1-3 Months,Delhi,Phone,150,1
+Technical Support,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Pune,WhatsApp,88,0
+Product Inquiry,Residential,Color Consultation,"Above ₹10,00,000",1-3 Months,Bengaluru,Email,282,1
+General Feedback,Industrial,Color Consultation,"₹50,000 - ₹2,00,000",1-4 Weeks,Madurai,WhatsApp,106,0
+Dealership Inquiry,Industrial,Color Consultation,"₹50,000 - ₹2,00,000",1-4 Weeks,Hyderabad,WhatsApp,256,1
+Technical Support,Industrial,Exterior Solutions,"Below ₹10,000",1-4 Weeks,Delhi,Email,119,0
+Technical Support,Industrial,Professional Painting,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Coimbatore,WhatsApp,182,0
+Other,Residential,Commercial Services,"₹2,00,000 - ₹10,00,000",1-3 Months,Hyderabad,Email,325,1
+Product Inquiry,Commercial,Color Consultation,"₹50,000 - ₹2,00,000",1-4 Weeks,Mumbai,Email,213,0
+Dealership Inquiry,Residential,Special Effects & Textures,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Trivandrum,Email,55,1
+Technical Support,Industrial,Interior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Madurai,WhatsApp,199,0
+Product Inquiry,Industrial,Color Consultation,"Below ₹10,000",Urgent (Within 1 Week),Hyderabad,Phone,65,0
+Dealership Inquiry,Residential,Maintenance Program,"₹10,000 - ₹50,000",1-4 Weeks,Trivandrum,Email,179,0
+Technical Support,Commercial,Commercial Services,"Below ₹10,000",1-3 Months,Hyderabad,Email,343,0
+Product Inquiry,Commercial,Professional Painting,"Above ₹10,00,000",Urgent (Within 1 Week),Mumbai,Phone,144,1
+Product Inquiry,Residential,Professional Painting,"Below ₹10,000",1-4 Weeks,Coimbatore,WhatsApp,260,0
+Bulk Order Inquiry,Residential,Exterior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Chennai,Phone,221,0
+Product Inquiry,Commercial,Commercial Services,"Above ₹10,00,000",3+ Months,Coimbatore,WhatsApp,334,1
+Dealership Inquiry,Residential,Maintenance Program,"₹10,000 - ₹50,000",1-4 Weeks,Madurai,Phone,206,0
+Bulk Order Inquiry,Residential,Exterior Solutions,"Above ₹10,00,000",Urgent (Within 1 Week),Madurai,Phone,94,2
+Dealership Inquiry,Residential,Interior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Mumbai,Email,213,0
+Dealership Inquiry,Commercial,Special Effects & Textures,"Below ₹10,000",1-4 Weeks,Mumbai,Email,218,0
+Product Inquiry,Industrial,Color Consultation,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Mumbai,WhatsApp,118,0
+General Feedback,Industrial,Commercial Services,"₹2,00,000 - ₹10,00,000",1-3 Months,Madurai,Phone,269,2
+Bulk Order Inquiry,Commercial,Exterior Solutions,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Hyderabad,Phone,74,1
+Dealership Inquiry,Commercial,Color Consultation,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Chennai,Phone,276,1
+Bulk Order Inquiry,Industrial,Commercial Services,"Below ₹10,000",3+ Months,Trivandrum,Phone,86,0
+General Feedback,Commercial,Maintenance Program,"₹50,000 - ₹2,00,000",1-3 Months,Madurai,WhatsApp,61,0
+Product Inquiry,Commercial,Color Consultation,"₹50,000 - ₹2,00,000",1-4 Weeks,Pune,WhatsApp,71,0
+Product Inquiry,Commercial,Commercial Services,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Trivandrum,WhatsApp,264,0
+Product Inquiry,Commercial,Special Effects & Textures,"₹10,000 - ₹50,000",1-4 Weeks,Madurai,Email,249,0
+Bulk Order Inquiry,Industrial,Special Effects & Textures,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Coimbatore,Phone,88,1
+Product Inquiry,Residential,Interior Solutions,"₹2,00,000 - ₹10,00,000",3+ Months,Bengaluru,WhatsApp,348,1
+Dealership Inquiry,Residential,Commercial Services,"Above ₹10,00,000",1-4 Weeks,Bengaluru,Phone,240,1
+Dealership Inquiry,Industrial,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-4 Weeks,Trivandrum,Email,105,0
+Dealership Inquiry,Commercial,Professional Painting,"₹10,000 - ₹50,000",1-4 Weeks,Delhi,Phone,225,0
+Other,Residential,Color Consultation,"₹10,000 - ₹50,000",1-4 Weeks,Hyderabad,Email,110,0
+Dealership Inquiry,Residential,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-3 Months,Pune,WhatsApp,309,0
+Product Inquiry,Industrial,Exterior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Chennai,Phone,124,0
+Technical Support,Industrial,Maintenance Program,"₹50,000 - ₹2,00,000",3+ Months,Kochi,Email,185,0
+Dealership Inquiry,Residential,Interior Solutions,"₹10,000 - ₹50,000",1-3 Months,Madurai,Phone,280,0
+General Feedback,Commercial,Professional Painting,"₹10,000 - ₹50,000",1-4 Weeks,Delhi,WhatsApp,310,0
+Product Inquiry,Industrial,Color Consultation,"₹10,000 - ₹50,000",1-3 Months,Trivandrum,Email,230,0
+Product Inquiry,Residential,Maintenance Program,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Coimbatore,Email,302,1
+Other,Residential,Exterior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Chennai,Phone,218,0
+Dealership Inquiry,Residential,Color Consultation,"₹10,000 - ₹50,000",3+ Months,Pune,Email,231,0
+Bulk Order Inquiry,Residential,Interior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Kochi,WhatsApp,110,0
+Bulk Order Inquiry,Residential,Color Consultation,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Hyderabad,Email,42,1
+Bulk Order Inquiry,Commercial,Color Consultation,"₹50,000 - ₹2,00,000",1-3 Months,Hyderabad,Email,310,0
+Technical Support,Residential,Color Consultation,"Below ₹10,000",1-4 Weeks,Kochi,WhatsApp,274,0
+Dealership Inquiry,Commercial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Chennai,WhatsApp,113,0
+Technical Support,Industrial,Interior Solutions,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Bengaluru,WhatsApp,83,0
+Dealership Inquiry,Commercial,Maintenance Program,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Kochi,Email,50,1
+Dealership Inquiry,Commercial,Maintenance Program,"Above ₹10,00,000",1-4 Weeks,Bengaluru,Phone,48,1
+Product Inquiry,Industrial,Maintenance Program,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Pune,Email,337,0
+Product Inquiry,Industrial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Kochi,WhatsApp,129,0
+Product Inquiry,Residential,Interior Solutions,"Below ₹10,000",1-3 Months,Delhi,Email,274,0
+Bulk Order Inquiry,Industrial,Exterior Solutions,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Trivandrum,Phone,198,1
+Product Inquiry,Residential,Maintenance Program,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Pune,Phone,222,1
+Product Inquiry,Commercial,Interior Solutions,"₹10,000 - ₹50,000",3+ Months,Mumbai,Phone,265,0
+Dealership Inquiry,Residential,Special Effects & Textures,"₹10,000 - ₹50,000",1-3 Months,Coimbatore,Email,176,0
+General Feedback,Commercial,Color Consultation,"Above ₹10,00,000",Urgent (Within 1 Week),Bengaluru,Phone,190,1
+Dealership Inquiry,Residential,Special Effects & Textures,"₹10,000 - ₹50,000",1-3 Months,Kochi,Phone,258,0
+General Feedback,Commercial,Special Effects & Textures,"₹50,000 - ₹2,00,000",3+ Months,Chennai,Email,262,0
+Dealership Inquiry,Residential,Professional Painting,"₹10,000 - ₹50,000",1-4 Weeks,Madurai,WhatsApp,121,0
+Bulk Order Inquiry,Commercial,Exterior Solutions,"Below ₹10,000",Urgent (Within 1 Week),Madurai,Email,227,1
+Dealership Inquiry,Commercial,Maintenance Program,"₹50,000 - ₹2,00,000",3+ Months,Bengaluru,WhatsApp,230,0
+Product Inquiry,Residential,Color Consultation,"₹10,000 - ₹50,000",1-4 Weeks,Chennai,WhatsApp,182,0
+Product Inquiry,Commercial,Maintenance Program,"₹50,000 - ₹2,00,000",3+ Months,Hyderabad,WhatsApp,100,0
+General Feedback,Residential,Color Consultation,"Above ₹10,00,000",1-4 Weeks,Mumbai,Email,291,1
+General Feedback,Industrial,Maintenance Program,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Pune,WhatsApp,84,1
+Technical Support,Residential,Special Effects & Textures,"Below ₹10,000",1-4 Weeks,Mumbai,Phone,193,0
+Dealership Inquiry,Residential,Maintenance Program,"Below ₹10,000",1-4 Weeks,Kochi,Email,111,0
+Technical Support,Residential,Commercial Services,"₹50,000 - ₹2,00,000",1-4 Weeks,Bengaluru,Email,322,0
+Technical Support,Commercial,Maintenance Program,"Above ₹10,00,000",1-3 Months,Coimbatore,WhatsApp,309,1
+Product Inquiry,Commercial,Special Effects & Textures,"Above ₹10,00,000",1-3 Months,Trivandrum,Phone,270,1
+Product Inquiry,Residential,Maintenance Program,"₹2,00,000 - ₹10,00,000",1-3 Months,Mumbai,Phone,340,1
+Dealership Inquiry,Residential,Interior Solutions,"₹2,00,000 - ₹10,00,000",1-3 Months,Mumbai,Email,305,1
+Technical Support,Commercial,Maintenance Program,"₹50,000 - ₹2,00,000",1-4 Weeks,Bengaluru,Phone,305,0
+Product Inquiry,Industrial,Commercial Services,"Above ₹10,00,000",1-4 Weeks,Bengaluru,WhatsApp,195,1
+Dealership Inquiry,Industrial,Commercial Services,"₹50,000 - ₹2,00,000",1-3 Months,Madurai,Phone,127,0
+Bulk Order Inquiry,Residential,Color Consultation,"₹50,000 - ₹2,00,000",1-3 Months,Madurai,Phone,54,0
+Dealership Inquiry,Commercial,Special Effects & Textures,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Trivandrum,Phone,55,1
+Dealership Inquiry,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Bengaluru,WhatsApp,247,0
+Product Inquiry,Commercial,Commercial Services,"₹10,000 - ₹50,000",1-4 Weeks,Mumbai,Phone,144,0
+Bulk Order Inquiry,Commercial,Professional Painting,"₹10,000 - ₹50,000",3+ Months,Pune,WhatsApp,216,0
+Dealership Inquiry,Commercial,Professional Painting,"₹10,000 - ₹50,000",1-4 Weeks,Mumbai,Email,176,0
+Product Inquiry,Residential,Maintenance Program,"Above ₹10,00,000",3+ Months,Mumbai,Phone,254,1
+Other,Commercial,Commercial Services,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Kochi,Phone,121,0
+Bulk Order Inquiry,Industrial,Exterior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Delhi,Email,241,1
+Dealership Inquiry,Industrial,Special Effects & Textures,"Below ₹10,000",1-4 Weeks,Kochi,Phone,345,0
+Dealership Inquiry,Industrial,Interior Solutions,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Coimbatore,Phone,175,1
+Product Inquiry,Industrial,Interior Solutions,"Below ₹10,000",1-3 Months,Bengaluru,Phone,225,0
+Dealership Inquiry,Residential,Color Consultation,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Coimbatore,Phone,100,1
+Bulk Order Inquiry,Residential,Commercial Services,"₹10,000 - ₹50,000",3+ Months,Trivandrum,Phone,113,0
+Dealership Inquiry,Commercial,Commercial Services,"Below ₹10,000",Urgent (Within 1 Week),Kochi,Email,210,1
+Dealership Inquiry,Residential,Exterior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Madurai,WhatsApp,203,0
+Bulk Order Inquiry,Industrial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Madurai,Phone,300,0
+General Feedback,Commercial,Commercial Services,"Below ₹10,000",1-4 Weeks,Hyderabad,WhatsApp,96,0
+Bulk Order Inquiry,Industrial,Maintenance Program,"₹50,000 - ₹2,00,000",1-3 Months,Madurai,WhatsApp,175,0
+Product Inquiry,Industrial,Special Effects & Textures,"Below ₹10,000",1-4 Weeks,Madurai,Phone,308,0
+Product Inquiry,Residential,Color Consultation,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Kochi,Phone,96,0
+General Feedback,Industrial,Exterior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Chennai,WhatsApp,296,0
+Product Inquiry,Industrial,Exterior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Pune,Email,284,0
+General Feedback,Industrial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Delhi,Email,175,0
+Product Inquiry,Commercial,Special Effects & Textures,"₹10,000 - ₹50,000",3+ Months,Delhi,WhatsApp,192,0
+Bulk Order Inquiry,Commercial,Color Consultation,"₹10,000 - ₹50,000",1-4 Weeks,Madurai,WhatsApp,180,0
+Dealership Inquiry,Residential,Interior Solutions,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Chennai,Phone,216,1
+Other,Industrial,Exterior Solutions,"Below ₹10,000",3+ Months,Delhi,Email,171,0
+Bulk Order Inquiry,Residential,Color Consultation,"₹10,000 - ₹50,000",1-3 Months,Madurai,WhatsApp,179,0
+Dealership Inquiry,Residential,Special Effects & Textures,"₹10,000 - ₹50,000",1-3 Months,Delhi,Email,311,0
+Product Inquiry,Residential,Commercial Services,"₹10,000 - ₹50,000",1-4 Weeks,Mumbai,Phone,110,0
+Dealership Inquiry,Commercial,Interior Solutions,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Hyderabad,WhatsApp,142,1
+Product Inquiry,Industrial,Special Effects & Textures,"₹2,00,000 - ₹10,00,000",1-3 Months,Chennai,Email,158,1
+General Feedback,Commercial,Maintenance Program,"₹2,00,000 - ₹10,00,000",3+ Months,Kochi,Email,58,1
+Other,Residential,Interior Solutions,"Above ₹10,00,000",3+ Months,Madurai,WhatsApp,59,1
+Product Inquiry,Industrial,Exterior Solutions,"Above ₹10,00,000",1-4 Weeks,Mumbai,WhatsApp,318,1
+General Feedback,Industrial,Exterior Solutions,"Below ₹10,000",Urgent (Within 1 Week),Hyderabad,WhatsApp,123,0
+Product Inquiry,Industrial,Maintenance Program,"₹50,000 - ₹2,00,000",1-3 Months,Delhi,Email,330,0
+Dealership Inquiry,Industrial,Interior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Bengaluru,Phone,258,0
+Dealership Inquiry,Residential,Color Consultation,"Below ₹10,000",Urgent (Within 1 Week),Hyderabad,Phone,205,1
+Product Inquiry,Industrial,Special Effects & Textures,"₹2,00,000 - ₹10,00,000",3+ Months,Madurai,Email,194,1
+Product Inquiry,Commercial,Interior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Mumbai,Phone,100,0
+Dealership Inquiry,Industrial,Color Consultation,"Above ₹10,00,000",3+ Months,Hyderabad,Phone,199,1
+Dealership Inquiry,Commercial,Special Effects & Textures,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Madurai,Phone,118,1
+General Feedback,Industrial,Maintenance Program,"₹50,000 - ₹2,00,000",1-4 Weeks,Delhi,Email,315,0
+Dealership Inquiry,Commercial,Commercial Services,"₹50,000 - ₹2,00,000",1-3 Months,Pune,Email,309,0
+Other,Residential,Commercial Services,"Below ₹10,000",1-3 Months,Trivandrum,Email,298,0
+Product Inquiry,Industrial,Commercial Services,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Kochi,Email,145,1
+Bulk Order Inquiry,Industrial,Exterior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Kochi,WhatsApp,107,1
+Product Inquiry,Commercial,Interior Solutions,"₹10,000 - ₹50,000",1-3 Months,Chennai,WhatsApp,51,0
+Product Inquiry,Industrial,Color Consultation,"Below ₹10,000",1-4 Weeks,Bengaluru,Phone,72,0
+Product Inquiry,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",1-3 Months,Kochi,Phone,255,0
+Technical Support,Residential,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-3 Months,Pune,Email,316,0
+Product Inquiry,Residential,Maintenance Program,"₹50,000 - ₹2,00,000",1-4 Weeks,Chennai,Phone,154,0
+General Feedback,Residential,Professional Painting,"₹50,000 - ₹2,00,000",1-4 Weeks,Kochi,Phone,234,0
+Product Inquiry,Residential,Maintenance Program,"Below ₹10,000",3+ Months,Coimbatore,WhatsApp,97,0
+Bulk Order Inquiry,Residential,Color Consultation,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Madurai,Email,145,2
+General Feedback,Industrial,Color Consultation,"₹50,000 - ₹2,00,000",3+ Months,Coimbatore,Phone,165,0
+Product Inquiry,Residential,Commercial Services,"₹10,000 - ₹50,000",3+ Months,Hyderabad,Email,68,0
+Bulk Order Inquiry,Industrial,Maintenance Program,"₹50,000 - ₹2,00,000",1-4 Weeks,Pune,Email,346,0
+Technical Support,Commercial,Interior Solutions,"Below ₹10,000",1-3 Months,Hyderabad,Email,153,0
+Dealership Inquiry,Industrial,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-3 Months,Coimbatore,WhatsApp,129,0
+General Feedback,Industrial,Interior Solutions,"Above ₹10,00,000",3+ Months,Coimbatore,Phone,235,1
+Product Inquiry,Residential,Maintenance Program,"₹10,000 - ₹50,000",1-3 Months,Delhi,Phone,282,0
+Bulk Order Inquiry,Industrial,Exterior Solutions,"Below ₹10,000",1-4 Weeks,Coimbatore,WhatsApp,69,0
+Dealership Inquiry,Industrial,Color Consultation,"₹10,000 - ₹50,000",1-4 Weeks,Kochi,Phone,209,0
+Product Inquiry,Commercial,Special Effects & Textures,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Madurai,WhatsApp,177,0
+Product Inquiry,Industrial,Special Effects & Textures,"Below ₹10,000",1-3 Months,Trivandrum,Email,340,0
+General Feedback,Residential,Professional Painting,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Bengaluru,WhatsApp,47,1
+Other,Industrial,Professional Painting,"₹10,000 - ₹50,000",1-4 Weeks,Coimbatore,Email,349,0
+Dealership Inquiry,Industrial,Interior Solutions,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Hyderabad,Phone,313,1
+Technical Support,Commercial,Professional Painting,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Pune,Phone,280,1
+General Feedback,Residential,Interior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Trivandrum,WhatsApp,114,0
+Dealership Inquiry,Residential,Exterior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Madurai,Email,208,1
+General Feedback,Commercial,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-3 Months,Kochi,Phone,171,0
+Product Inquiry,Commercial,Professional Painting,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Trivandrum,WhatsApp,319,1
+Other,Industrial,Color Consultation,"₹50,000 - ₹2,00,000",1-3 Months,Chennai,Phone,78,0
+Product Inquiry,Residential,Professional Painting,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Trivandrum,Phone,117,0
+Technical Support,Industrial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Chennai,Email,287,0
+Dealership Inquiry,Industrial,Interior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Chennai,WhatsApp,180,1
+Bulk Order Inquiry,Residential,Color Consultation,"₹50,000 - ₹2,00,000",1-3 Months,Trivandrum,Email,131,0
+Product Inquiry,Commercial,Maintenance Program,"₹50,000 - ₹2,00,000",1-4 Weeks,Coimbatore,Email,221,0
+Technical Support,Commercial,Special Effects & Textures,"₹10,000 - ₹50,000",1-3 Months,Bengaluru,WhatsApp,155,0
+Other,Commercial,Exterior Solutions,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Trivandrum,Phone,247,0
+Product Inquiry,Commercial,Special Effects & Textures,"Below ₹10,000",Urgent (Within 1 Week),Pune,WhatsApp,295,0
+Other,Residential,Professional Painting,"Above ₹10,00,000",3+ Months,Madurai,Phone,61,1
+Product Inquiry,Industrial,Commercial Services,"Above ₹10,00,000",1-3 Months,Chennai,Email,183,1
+Other,Residential,Maintenance Program,"₹10,000 - ₹50,000",3+ Months,Coimbatore,Email,340,0
+Product Inquiry,Industrial,Commercial Services,"₹50,000 - ₹2,00,000",1-3 Months,Pune,Phone,239,0
+Bulk Order Inquiry,Industrial,Special Effects & Textures,"Below ₹10,000",3+ Months,Pune,Email,80,0
+Product Inquiry,Industrial,Commercial Services,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Coimbatore,Phone,349,0
+Product Inquiry,Residential,Interior Solutions,"₹10,000 - ₹50,000",3+ Months,Trivandrum,Phone,291,0
+General Feedback,Industrial,Interior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Delhi,WhatsApp,83,0
+Product Inquiry,Industrial,Exterior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Pune,Phone,118,0
+Product Inquiry,Commercial,Color Consultation,"Below ₹10,000",1-4 Weeks,Mumbai,Email,224,0
+Product Inquiry,Residential,Color Consultation,"₹10,000 - ₹50,000",1-3 Months,Bengaluru,Phone,248,0
+Dealership Inquiry,Residential,Interior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Coimbatore,Phone,237,0
+Bulk Order Inquiry,Industrial,Commercial Services,"₹50,000 - ₹2,00,000",1-3 Months,Mumbai,WhatsApp,164,0
+Technical Support,Residential,Color Consultation,"Below ₹10,000",1-4 Weeks,Mumbai,Phone,292,0
+Product Inquiry,Commercial,Professional Painting,"₹10,000 - ₹50,000",1-3 Months,Kochi,WhatsApp,224,0
+Dealership Inquiry,Commercial,Interior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Madurai,Phone,43,1
+Bulk Order Inquiry,Residential,Interior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Pune,WhatsApp,344,0
+Other,Commercial,Interior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Kochi,WhatsApp,243,0
+Bulk Order Inquiry,Commercial,Color Consultation,"₹10,000 - ₹50,000",1-4 Weeks,Madurai,Email,241,0
+Dealership Inquiry,Residential,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-3 Months,Kochi,WhatsApp,321,0
+Product Inquiry,Commercial,Special Effects & Textures,"₹2,00,000 - ₹10,00,000",1-3 Months,Kochi,Email,75,1
+Dealership Inquiry,Commercial,Color Consultation,"₹10,000 - ₹50,000",1-3 Months,Kochi,WhatsApp,256,0
+General Feedback,Industrial,Color Consultation,"₹10,000 - ₹50,000",1-4 Weeks,Pune,WhatsApp,254,0
+Bulk Order Inquiry,Residential,Maintenance Program,"₹50,000 - ₹2,00,000",1-3 Months,Delhi,WhatsApp,83,0
+Dealership Inquiry,Industrial,Special Effects & Textures,"Below ₹10,000",1-3 Months,Coimbatore,Phone,328,1
+Other,Residential,Commercial Services,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Trivandrum,WhatsApp,172,0
+Dealership Inquiry,Commercial,Maintenance Program,"₹50,000 - ₹2,00,000",1-4 Weeks,Madurai,WhatsApp,240,0
+Dealership Inquiry,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Bengaluru,Email,93,1
+Bulk Order Inquiry,Commercial,Maintenance Program,"₹50,000 - ₹2,00,000",1-4 Weeks,Delhi,WhatsApp,215,0
+General Feedback,Commercial,Color Consultation,"₹10,000 - ₹50,000",1-4 Weeks,Hyderabad,Email,271,0
+Bulk Order Inquiry,Industrial,Maintenance Program,"Below ₹10,000",1-3 Months,Mumbai,WhatsApp,95,0
+Product Inquiry,Commercial,Exterior Solutions,"Below ₹10,000",Urgent (Within 1 Week),Delhi,Phone,326,0
+Dealership Inquiry,Residential,Special Effects & Textures,"Below ₹10,000",1-3 Months,Madurai,Email,242,0
+General Feedback,Residential,Interior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Bengaluru,WhatsApp,149,0
+Product Inquiry,Residential,Exterior Solutions,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Bengaluru,Phone,206,1
+Dealership Inquiry,Industrial,Exterior Solutions,"₹10,000 - ₹50,000",3+ Months,Madurai,Phone,200,0
+Dealership Inquiry,Industrial,Special Effects & Textures,"₹10,000 - ₹50,000",1-3 Months,Hyderabad,WhatsApp,128,0
+Dealership Inquiry,Commercial,Color Consultation,"₹50,000 - ₹2,00,000",1-4 Weeks,Mumbai,Phone,162,0
+Dealership Inquiry,Industrial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Coimbatore,Email,110,0
+General Feedback,Industrial,Professional Painting,"₹50,000 - ₹2,00,000",3+ Months,Kochi,Phone,128,0
+Product Inquiry,Commercial,Color Consultation,"₹10,000 - ₹50,000",1-4 Weeks,Kochi,Email,67,0
+Product Inquiry,Commercial,Special Effects & Textures,"₹10,000 - ₹50,000",1-3 Months,Kochi,Phone,293,0
+Bulk Order Inquiry,Residential,Maintenance Program,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Delhi,Phone,329,1
+Product Inquiry,Industrial,Special Effects & Textures,"₹10,000 - ₹50,000",1-4 Weeks,Kochi,WhatsApp,274,0
+Dealership Inquiry,Commercial,Commercial Services,"₹50,000 - ₹2,00,000",1-4 Weeks,Chennai,WhatsApp,318,0
+General Feedback,Commercial,Maintenance Program,"₹10,000 - ₹50,000",1-4 Weeks,Chennai,Phone,166,0
+Product Inquiry,Residential,Professional Painting,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Madurai,WhatsApp,100,1
+Technical Support,Industrial,Professional Painting,"₹50,000 - ₹2,00,000",1-3 Months,Delhi,Email,124,0
+Bulk Order Inquiry,Industrial,Professional Painting,"₹50,000 - ₹2,00,000",1-4 Weeks,Pune,WhatsApp,345,0
+Product Inquiry,Industrial,Maintenance Program,"₹50,000 - ₹2,00,000",3+ Months,Bengaluru,Email,303,0
+Other,Industrial,Professional Painting,"₹2,00,000 - ₹10,00,000",3+ Months,Mumbai,Email,181,1
+Product Inquiry,Commercial,Professional Painting,"₹10,000 - ₹50,000",1-4 Weeks,Madurai,WhatsApp,241,0
+Product Inquiry,Commercial,Commercial Services,"₹10,000 - ₹50,000",1-4 Weeks,Hyderabad,WhatsApp,87,0
+Other,Industrial,Color Consultation,"₹10,000 - ₹50,000",3+ Months,Bengaluru,WhatsApp,207,0
+Other,Industrial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Delhi,Phone,72,0
+Bulk Order Inquiry,Commercial,Commercial Services,"₹10,000 - ₹50,000",1-4 Weeks,Madurai,Email,185,0
+Dealership Inquiry,Residential,Color Consultation,"₹10,000 - ₹50,000",1-4 Weeks,Kochi,Email,64,0
+Product Inquiry,Commercial,Professional Painting,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Mumbai,WhatsApp,40,1
+Technical Support,Industrial,Interior Solutions,"₹2,00,000 - ₹10,00,000",3+ Months,Hyderabad,Email,87,1
+Technical Support,Industrial,Interior Solutions,"Above ₹10,00,000",Urgent (Within 1 Week),Delhi,Phone,242,2
+Dealership Inquiry,Residential,Professional Painting,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Madurai,Email,284,1
+Dealership Inquiry,Residential,Maintenance Program,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Coimbatore,WhatsApp,215,1
+Product Inquiry,Residential,Interior Solutions,"Below ₹10,000",1-4 Weeks,Pune,Phone,92,0
+Product Inquiry,Industrial,Special Effects & Textures,"₹2,00,000 - ₹10,00,000",1-3 Months,Mumbai,Email,108,1
+Dealership Inquiry,Commercial,Special Effects & Textures,"Below ₹10,000",1-3 Months,Delhi,WhatsApp,265,0
+Bulk Order Inquiry,Residential,Color Consultation,"Above ₹10,00,000",1-3 Months,Bengaluru,Email,266,1
+Bulk Order Inquiry,Commercial,Maintenance Program,"₹50,000 - ₹2,00,000",1-4 Weeks,Mumbai,Email,259,0
+Product Inquiry,Industrial,Commercial Services,"Below ₹10,000",1-3 Months,Hyderabad,WhatsApp,347,0
+Product Inquiry,Industrial,Commercial Services,"₹2,00,000 - ₹10,00,000",3+ Months,Trivandrum,Email,145,1
+Bulk Order Inquiry,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Bengaluru,Email,162,1
+General Feedback,Commercial,Interior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Mumbai,Phone,46,0
+Bulk Order Inquiry,Commercial,Maintenance Program,"₹50,000 - ₹2,00,000",1-4 Weeks,Bengaluru,Email,128,0
+Dealership Inquiry,Commercial,Commercial Services,"Below ₹10,000",1-4 Weeks,Hyderabad,WhatsApp,70,0
+Bulk Order Inquiry,Residential,Special Effects & Textures,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Trivandrum,WhatsApp,245,1
+Dealership Inquiry,Residential,Maintenance Program,"₹10,000 - ₹50,000",1-4 Weeks,Mumbai,WhatsApp,301,0
+Technical Support,Commercial,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-3 Months,Coimbatore,WhatsApp,73,0
+Other,Residential,Exterior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Madurai,WhatsApp,262,0
+Product Inquiry,Residential,Color Consultation,"₹50,000 - ₹2,00,000",1-3 Months,Mumbai,WhatsApp,129,0
+Product Inquiry,Industrial,Interior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Mumbai,Phone,304,0
+Product Inquiry,Residential,Interior Solutions,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Coimbatore,Phone,100,1
+Dealership Inquiry,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",3+ Months,Trivandrum,Phone,79,0
+Product Inquiry,Commercial,Maintenance Program,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Bengaluru,WhatsApp,120,1
+Dealership Inquiry,Residential,Maintenance Program,"Below ₹10,000",1-3 Months,Chennai,Email,41,0
+Product Inquiry,Residential,Commercial Services,"₹10,000 - ₹50,000",3+ Months,Coimbatore,Email,131,0
+Technical Support,Residential,Commercial Services,"₹10,000 - ₹50,000",1-3 Months,Pune,Email,178,0
+Dealership Inquiry,Residential,Exterior Solutions,"Above ₹10,00,000",Urgent (Within 1 Week),Bengaluru,Phone,304,2
+Bulk Order Inquiry,Industrial,Exterior Solutions,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Chennai,Phone,84,1
+Product Inquiry,Commercial,Interior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Madurai,Phone,164,0
+Other,Residential,Professional Painting,"₹2,00,000 - ₹10,00,000",1-3 Months,Chennai,Phone,319,1
+Product Inquiry,Commercial,Color Consultation,"₹50,000 - ₹2,00,000",1-3 Months,Coimbatore,WhatsApp,44,0
+Bulk Order Inquiry,Commercial,Exterior Solutions,"Below ₹10,000",1-4 Weeks,Chennai,Email,161,0
+Bulk Order Inquiry,Commercial,Special Effects & Textures,"Below ₹10,000",3+ Months,Pune,Phone,306,0
+Other,Industrial,Maintenance Program,"Below ₹10,000",Urgent (Within 1 Week),Coimbatore,Email,108,0
+Dealership Inquiry,Residential,Interior Solutions,"Below ₹10,000",1-3 Months,Hyderabad,Phone,106,0
+Other,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",1-3 Months,Hyderabad,Email,207,0
+Product Inquiry,Residential,Professional Painting,"₹10,000 - ₹50,000",1-3 Months,Bengaluru,Email,339,0
+General Feedback,Residential,Exterior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Hyderabad,Phone,223,0
+Product Inquiry,Industrial,Special Effects & Textures,"Below ₹10,000",Urgent (Within 1 Week),Madurai,Email,195,0
+Product Inquiry,Commercial,Exterior Solutions,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Trivandrum,Email,167,1
+Dealership Inquiry,Commercial,Maintenance Program,"₹10,000 - ₹50,000",3+ Months,Kochi,WhatsApp,55,0
+Bulk Order Inquiry,Residential,Color Consultation,"₹10,000 - ₹50,000",1-4 Weeks,Chennai,Email,111,0
+Product Inquiry,Industrial,Commercial Services,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Hyderabad,Email,83,1
+Product Inquiry,Residential,Color Consultation,"Below ₹10,000",3+ Months,Pune,Email,267,0
+Product Inquiry,Commercial,Maintenance Program,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Coimbatore,Phone,333,0
+Product Inquiry,Residential,Interior Solutions,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Hyderabad,Phone,149,1
+Bulk Order Inquiry,Industrial,Interior Solutions,"Below ₹10,000",1-3 Months,Kochi,Phone,165,0
+Bulk Order Inquiry,Residential,Exterior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Delhi,WhatsApp,236,1
+Bulk Order Inquiry,Residential,Exterior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Pune,Phone,318,0
+Dealership Inquiry,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",3+ Months,Hyderabad,Email,297,0
+Product Inquiry,Residential,Maintenance Program,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Kochi,WhatsApp,183,0
+Technical Support,Residential,Professional Painting,"₹50,000 - ₹2,00,000",1-4 Weeks,Delhi,Phone,121,0
+Dealership Inquiry,Industrial,Maintenance Program,"₹2,00,000 - ₹10,00,000",1-3 Months,Coimbatore,Phone,152,1
+Other,Industrial,Interior Solutions,"Above ₹10,00,000",Urgent (Within 1 Week),Pune,WhatsApp,161,1
+Product Inquiry,Residential,Commercial Services,"₹50,000 - ₹2,00,000",3+ Months,Delhi,Phone,328,0
+Dealership Inquiry,Residential,Commercial Services,"Below ₹10,000",Urgent (Within 1 Week),Delhi,Email,68,1
+Dealership Inquiry,Residential,Interior Solutions,"Below ₹10,000",3+ Months,Mumbai,Phone,143,0
+Product Inquiry,Residential,Maintenance Program,"Below ₹10,000",1-3 Months,Trivandrum,Phone,112,0
+Other,Industrial,Color Consultation,"₹10,000 - ₹50,000",3+ Months,Pune,Phone,242,0
+Technical Support,Industrial,Exterior Solutions,"Above ₹10,00,000",1-3 Months,Pune,Email,263,1
+Bulk Order Inquiry,Residential,Special Effects & Textures,"₹50,000 - ₹2,00,000",3+ Months,Madurai,Email,222,0
+Technical Support,Industrial,Color Consultation,"₹50,000 - ₹2,00,000",1-4 Weeks,Madurai,Phone,130,0
+Bulk Order Inquiry,Industrial,Interior Solutions,"₹2,00,000 - ₹10,00,000",1-3 Months,Madurai,Email,133,1
+Dealership Inquiry,Industrial,Color Consultation,"Below ₹10,000",1-4 Weeks,Delhi,Phone,209,0
+Other,Industrial,Special Effects & Textures,"Below ₹10,000",3+ Months,Pune,Phone,85,0
+Product Inquiry,Commercial,Maintenance Program,"₹10,000 - ₹50,000",1-3 Months,Bengaluru,WhatsApp,219,0
+Product Inquiry,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",1-3 Months,Coimbatore,Phone,125,0
+Dealership Inquiry,Industrial,Maintenance Program,"Below ₹10,000",1-4 Weeks,Delhi,Email,335,0
+General Feedback,Commercial,Interior Solutions,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Bengaluru,Email,50,1
+Technical Support,Industrial,Color Consultation,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Pune,WhatsApp,78,1
+Other,Industrial,Professional Painting,"₹2,00,000 - ₹10,00,000",1-3 Months,Madurai,Phone,260,1
+Product Inquiry,Commercial,Special Effects & Textures,"Below ₹10,000",1-4 Weeks,Trivandrum,WhatsApp,137,0
+Other,Residential,Color Consultation,"₹50,000 - ₹2,00,000",1-3 Months,Chennai,Phone,192,0
+Dealership Inquiry,Residential,Exterior Solutions,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Bengaluru,Phone,224,2
+Bulk Order Inquiry,Residential,Professional Painting,"₹50,000 - ₹2,00,000",1-4 Weeks,Mumbai,WhatsApp,89,0
+Product Inquiry,Commercial,Exterior Solutions,"Below ₹10,000",1-3 Months,Kochi,WhatsApp,197,0
+Product Inquiry,Commercial,Interior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Mumbai,Phone,229,0
+Product Inquiry,Industrial,Color Consultation,"₹10,000 - ₹50,000",1-4 Weeks,Mumbai,WhatsApp,177,0
+Dealership Inquiry,Commercial,Maintenance Program,"Below ₹10,000",1-4 Weeks,Madurai,Email,317,0
+Dealership Inquiry,Industrial,Special Effects & Textures,"₹2,00,000 - ₹10,00,000",1-3 Months,Kochi,WhatsApp,254,2
+Bulk Order Inquiry,Industrial,Commercial Services,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Trivandrum,WhatsApp,57,1
+Dealership Inquiry,Residential,Professional Painting,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Delhi,Email,269,1
+Product Inquiry,Residential,Maintenance Program,"₹10,000 - ₹50,000",3+ Months,Mumbai,WhatsApp,262,0
+Product Inquiry,Residential,Exterior Solutions,"Above ₹10,00,000",3+ Months,Trivandrum,Phone,74,1
+Dealership Inquiry,Industrial,Commercial Services,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Madurai,WhatsApp,46,1
+Bulk Order Inquiry,Industrial,Commercial Services,"Below ₹10,000",Urgent (Within 1 Week),Bengaluru,Email,330,1
+Dealership Inquiry,Commercial,Exterior Solutions,"Below ₹10,000",1-4 Weeks,Hyderabad,Phone,314,0
+Dealership Inquiry,Commercial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Mumbai,WhatsApp,128,0
+Dealership Inquiry,Industrial,Professional Painting,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Chennai,WhatsApp,209,1
+General Feedback,Commercial,Interior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Hyderabad,Phone,212,0
+Bulk Order Inquiry,Residential,Interior Solutions,"₹50,000 - ₹2,00,000",3+ Months,Kochi,Phone,156,0
+Product Inquiry,Commercial,Professional Painting,"₹10,000 - ₹50,000",1-3 Months,Coimbatore,WhatsApp,136,0
+General Feedback,Industrial,Maintenance Program,"₹50,000 - ₹2,00,000",1-4 Weeks,Mumbai,Email,68,0
+Technical Support,Industrial,Color Consultation,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Mumbai,Email,308,0
+Bulk Order Inquiry,Commercial,Color Consultation,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Pune,WhatsApp,56,1
+Product Inquiry,Industrial,Color Consultation,"₹10,000 - ₹50,000",1-4 Weeks,Chennai,Email,243,0
+Technical Support,Industrial,Commercial Services,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Pune,Phone,282,0
+Product Inquiry,Commercial,Color Consultation,"₹2,00,000 - ₹10,00,000",1-3 Months,Coimbatore,Email,86,1
+Product Inquiry,Industrial,Professional Painting,"₹50,000 - ₹2,00,000",3+ Months,Delhi,Phone,153,0
+Dealership Inquiry,Commercial,Professional Painting,"₹50,000 - ₹2,00,000",3+ Months,Mumbai,WhatsApp,44,0
+Bulk Order Inquiry,Industrial,Special Effects & Textures,"₹10,000 - ₹50,000",1-3 Months,Hyderabad,Phone,196,0
+Bulk Order Inquiry,Commercial,Interior Solutions,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Trivandrum,WhatsApp,151,1
+Technical Support,Industrial,Special Effects & Textures,"Below ₹10,000",1-4 Weeks,Madurai,WhatsApp,231,0
+Product Inquiry,Commercial,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-4 Weeks,Pune,Phone,212,0
+Product Inquiry,Residential,Professional Painting,"₹50,000 - ₹2,00,000",3+ Months,Trivandrum,Email,192,0
+Bulk Order Inquiry,Commercial,Special Effects & Textures,"₹2,00,000 - ₹10,00,000",1-3 Months,Pune,WhatsApp,347,1
+Product Inquiry,Commercial,Exterior Solutions,"Below ₹10,000",1-4 Weeks,Coimbatore,Phone,191,0
+Bulk Order Inquiry,Commercial,Special Effects & Textures,"₹50,000 - ₹2,00,000",3+ Months,Delhi,WhatsApp,137,0
+Dealership Inquiry,Industrial,Interior Solutions,"₹2,00,000 - ₹10,00,000",3+ Months,Mumbai,WhatsApp,223,1
+Bulk Order Inquiry,Industrial,Interior Solutions,"Below ₹10,000",Urgent (Within 1 Week),Trivandrum,Email,105,1
+Other,Commercial,Professional Painting,"₹2,00,000 - ₹10,00,000",1-3 Months,Hyderabad,Phone,153,1
+Bulk Order Inquiry,Commercial,Maintenance Program,"₹10,000 - ₹50,000",1-4 Weeks,Bengaluru,Phone,190,0
+Product Inquiry,Commercial,Professional Painting,"₹50,000 - ₹2,00,000",1-3 Months,Trivandrum,Email,76,0
+Bulk Order Inquiry,Residential,Professional Painting,"₹10,000 - ₹50,000",1-4 Weeks,Delhi,Phone,67,0
+General Feedback,Residential,Interior Solutions,"₹50,000 - ₹2,00,000",3+ Months,Mumbai,Email,274,0
+General Feedback,Residential,Exterior Solutions,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Hyderabad,Email,69,0
+Bulk Order Inquiry,Residential,Professional Painting,"Below ₹10,000",1-3 Months,Madurai,Phone,290,0
+Dealership Inquiry,Residential,Color Consultation,"₹10,000 - ₹50,000",3+ Months,Trivandrum,Email,236,0
+Bulk Order Inquiry,Residential,Color Consultation,"Above ₹10,00,000",3+ Months,Chennai,WhatsApp,311,1
+Bulk Order Inquiry,Residential,Color Consultation,"₹10,000 - ₹50,000",3+ Months,Coimbatore,WhatsApp,199,0
+Dealership Inquiry,Commercial,Exterior Solutions,"Below ₹10,000",1-3 Months,Trivandrum,WhatsApp,192,0
+Dealership Inquiry,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",1-3 Months,Pune,Email,108,0
+Product Inquiry,Residential,Professional Painting,"Above ₹10,00,000",1-3 Months,Mumbai,Email,49,1
+Bulk Order Inquiry,Industrial,Special Effects & Textures,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Chennai,Phone,227,1
+Bulk Order Inquiry,Industrial,Color Consultation,"₹10,000 - ₹50,000",1-4 Weeks,Bengaluru,WhatsApp,64,0
+Bulk Order Inquiry,Commercial,Color Consultation,"Below ₹10,000",Urgent (Within 1 Week),Trivandrum,Phone,267,1
+General Feedback,Commercial,Exterior Solutions,"Below ₹10,000",1-3 Months,Bengaluru,WhatsApp,44,0
+Dealership Inquiry,Residential,Commercial Services,"₹50,000 - ₹2,00,000",1-3 Months,Madurai,Email,254,0
+Product Inquiry,Commercial,Maintenance Program,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Trivandrum,Email,142,1
+Technical Support,Commercial,Professional Painting,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Kochi,Phone,320,0
+Product Inquiry,Industrial,Special Effects & Textures,"Below ₹10,000",Urgent (Within 1 Week),Kochi,Email,96,0
+Other,Commercial,Special Effects & Textures,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Delhi,Phone,91,1
+Other,Residential,Maintenance Program,"₹10,000 - ₹50,000",1-4 Weeks,Chennai,Phone,91,0
+Technical Support,Residential,Maintenance Program,"₹50,000 - ₹2,00,000",1-4 Weeks,Chennai,Email,99,0
+Bulk Order Inquiry,Commercial,Commercial Services,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Hyderabad,WhatsApp,223,1
+Product Inquiry,Commercial,Exterior Solutions,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Hyderabad,Phone,245,1
+Dealership Inquiry,Residential,Professional Painting,"₹10,000 - ₹50,000",1-4 Weeks,Chennai,Email,125,0
+Product Inquiry,Industrial,Exterior Solutions,"Above ₹10,00,000",1-4 Weeks,Mumbai,WhatsApp,331,1
+Technical Support,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Bengaluru,Phone,106,0
+General Feedback,Industrial,Maintenance Program,"Below ₹10,000",1-3 Months,Trivandrum,WhatsApp,46,0
+Dealership Inquiry,Industrial,Commercial Services,"₹50,000 - ₹2,00,000",3+ Months,Madurai,Email,213,0
+General Feedback,Residential,Maintenance Program,"₹50,000 - ₹2,00,000",1-4 Weeks,Trivandrum,WhatsApp,237,1
+Product Inquiry,Commercial,Maintenance Program,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Mumbai,Email,280,0
+Bulk Order Inquiry,Residential,Commercial Services,"₹10,000 - ₹50,000",1-4 Weeks,Delhi,WhatsApp,182,0
+Dealership Inquiry,Commercial,Maintenance Program,"₹10,000 - ₹50,000",1-4 Weeks,Madurai,Phone,275,0
+Product Inquiry,Industrial,Special Effects & Textures,"₹10,000 - ₹50,000",1-4 Weeks,Chennai,Email,294,0
+General Feedback,Industrial,Commercial Services,"Below ₹10,000",1-4 Weeks,Hyderabad,WhatsApp,86,0
+Dealership Inquiry,Commercial,Maintenance Program,"₹50,000 - ₹2,00,000",1-4 Weeks,Chennai,Email,214,0
+Bulk Order Inquiry,Commercial,Special Effects & Textures,"₹10,000 - ₹50,000",1-3 Months,Pune,WhatsApp,347,1
+General Feedback,Commercial,Interior Solutions,"Below ₹10,000",1-3 Months,Hyderabad,WhatsApp,41,0
+Dealership Inquiry,Commercial,Professional Painting,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Coimbatore,Email,124,1
+Product Inquiry,Residential,Exterior Solutions,"Below ₹10,000",Urgent (Within 1 Week),Delhi,WhatsApp,241,0
+Technical Support,Residential,Maintenance Program,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Kochi,Phone,341,1
+Dealership Inquiry,Residential,Commercial Services,"Above ₹10,00,000",Urgent (Within 1 Week),Chennai,WhatsApp,295,2
+Other,Residential,Special Effects & Textures,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Madurai,Email,300,1
+Bulk Order Inquiry,Industrial,Interior Solutions,"Below ₹10,000",1-4 Weeks,Trivandrum,Phone,347,0
+General Feedback,Commercial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Pune,Phone,167,0
+General Feedback,Commercial,Maintenance Program,"Below ₹10,000",1-4 Weeks,Trivandrum,Phone,302,0
+Bulk Order Inquiry,Residential,Commercial Services,"Above ₹10,00,000",1-3 Months,Hyderabad,WhatsApp,142,1
+Technical Support,Industrial,Commercial Services,"₹50,000 - ₹2,00,000",3+ Months,Pune,WhatsApp,131,0
+Product Inquiry,Industrial,Special Effects & Textures,"₹10,000 - ₹50,000",1-4 Weeks,Coimbatore,WhatsApp,332,0
+Bulk Order Inquiry,Residential,Commercial Services,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Bengaluru,Email,256,1
+Technical Support,Residential,Interior Solutions,"Below ₹10,000",Urgent (Within 1 Week),Hyderabad,Email,176,0
+Bulk Order Inquiry,Residential,Interior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Kochi,Email,317,0
+Dealership Inquiry,Industrial,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-3 Months,Trivandrum,Phone,154,0
+Product Inquiry,Industrial,Special Effects & Textures,"₹2,00,000 - ₹10,00,000",1-3 Months,Chennai,Phone,187,1
+Technical Support,Industrial,Color Consultation,"Above ₹10,00,000",3+ Months,Chennai,WhatsApp,200,1
+Product Inquiry,Residential,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-3 Months,Pune,WhatsApp,266,0
+Dealership Inquiry,Commercial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Mumbai,WhatsApp,139,0
+Product Inquiry,Commercial,Color Consultation,"Above ₹10,00,000",1-3 Months,Coimbatore,Phone,101,1
+Dealership Inquiry,Residential,Interior Solutions,"Below ₹10,000",1-3 Months,Kochi,WhatsApp,170,0
+Other,Residential,Maintenance Program,"Below ₹10,000",3+ Months,Madurai,WhatsApp,345,1
+Technical Support,Industrial,Interior Solutions,"₹2,00,000 - ₹10,00,000",1-3 Months,Trivandrum,Email,77,1
+Other,Commercial,Commercial Services,"₹50,000 - ₹2,00,000",1-3 Months,Trivandrum,Phone,121,0
+Product Inquiry,Commercial,Interior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Hyderabad,Email,209,0
+Other,Industrial,Color Consultation,"₹50,000 - ₹2,00,000",1-4 Weeks,Bengaluru,WhatsApp,327,0
+Technical Support,Residential,Special Effects & Textures,"₹10,000 - ₹50,000",1-3 Months,Pune,Phone,164,0
+Other,Industrial,Interior Solutions,"Above ₹10,00,000",1-4 Weeks,Chennai,WhatsApp,316,1
+Bulk Order Inquiry,Commercial,Color Consultation,"₹10,000 - ₹50,000",1-3 Months,Hyderabad,WhatsApp,268,0
+Product Inquiry,Industrial,Commercial Services,"₹50,000 - ₹2,00,000",3+ Months,Chennai,WhatsApp,125,0
+Product Inquiry,Residential,Professional Painting,"₹50,000 - ₹2,00,000",1-3 Months,Trivandrum,WhatsApp,257,0
+Bulk Order Inquiry,Industrial,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-4 Weeks,Mumbai,Email,76,0
+General Feedback,Residential,Maintenance Program,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Hyderabad,WhatsApp,67,0
+Product Inquiry,Commercial,Exterior Solutions,"₹2,00,000 - ₹10,00,000",3+ Months,Coimbatore,Phone,248,1
+Technical Support,Industrial,Special Effects & Textures,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Madurai,Email,43,0
+Bulk Order Inquiry,Commercial,Commercial Services,"₹50,000 - ₹2,00,000",1-3 Months,Bengaluru,Phone,77,0
+Bulk Order Inquiry,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Chennai,Phone,264,1
+Product Inquiry,Commercial,Special Effects & Textures,"₹10,000 - ₹50,000",1-3 Months,Mumbai,Phone,319,0
+Dealership Inquiry,Residential,Commercial Services,"Above ₹10,00,000",1-3 Months,Trivandrum,Email,231,1
+Product Inquiry,Industrial,Color Consultation,"Below ₹10,000",1-3 Months,Hyderabad,Email,315,0
+Bulk Order Inquiry,Industrial,Maintenance Program,"Above ₹10,00,000",1-4 Weeks,Trivandrum,Email,251,1
+Product Inquiry,Residential,Professional Painting,"₹10,000 - ₹50,000",1-3 Months,Madurai,Email,139,0
+Bulk Order Inquiry,Industrial,Commercial Services,"Above ₹10,00,000",3+ Months,Bengaluru,Phone,276,1
+Dealership Inquiry,Commercial,Interior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Pune,Email,337,1
+Dealership Inquiry,Residential,Interior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Kochi,Phone,75,0
+Technical Support,Industrial,Commercial Services,"₹50,000 - ₹2,00,000",1-3 Months,Pune,Phone,118,0
+Other,Industrial,Special Effects & Textures,"Below ₹10,000",1-4 Weeks,Coimbatore,Phone,153,0
+Bulk Order Inquiry,Commercial,Exterior Solutions,"Below ₹10,000",1-3 Months,Pune,Phone,285,1
+General Feedback,Commercial,Maintenance Program,"Below ₹10,000",1-3 Months,Mumbai,WhatsApp,81,0
+Product Inquiry,Residential,Maintenance Program,"₹50,000 - ₹2,00,000",1-3 Months,Trivandrum,WhatsApp,78,0
+Product Inquiry,Residential,Color Consultation,"₹50,000 - ₹2,00,000",1-4 Weeks,Trivandrum,Phone,342,0
+Dealership Inquiry,Commercial,Exterior Solutions,"Above ₹10,00,000",1-4 Weeks,Delhi,WhatsApp,116,1
+Bulk Order Inquiry,Residential,Exterior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Pune,WhatsApp,301,0
+Product Inquiry,Industrial,Professional Painting,"₹10,000 - ₹50,000",3+ Months,Kochi,Email,124,0
+Product Inquiry,Industrial,Special Effects & Textures,"Above ₹10,00,000",1-3 Months,Kochi,Phone,114,1
+Product Inquiry,Commercial,Professional Painting,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Chennai,WhatsApp,175,1
+Product Inquiry,Commercial,Color Consultation,"Above ₹10,00,000",1-4 Weeks,Chennai,WhatsApp,280,1
+Technical Support,Industrial,Interior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Madurai,WhatsApp,180,0
+Dealership Inquiry,Industrial,Maintenance Program,"₹10,000 - ₹50,000",1-4 Weeks,Bengaluru,WhatsApp,340,0
+Product Inquiry,Commercial,Maintenance Program,"Above ₹10,00,000",1-4 Weeks,Pune,Phone,247,1
+Bulk Order Inquiry,Commercial,Professional Painting,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Delhi,Email,111,2
+Dealership Inquiry,Commercial,Commercial Services,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Bengaluru,WhatsApp,120,1
+Product Inquiry,Industrial,Exterior Solutions,"₹2,00,000 - ₹10,00,000",1-3 Months,Kochi,Email,286,1
+Dealership Inquiry,Residential,Professional Painting,"₹50,000 - ₹2,00,000",1-4 Weeks,Madurai,WhatsApp,164,0
+Product Inquiry,Residential,Color Consultation,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Mumbai,Phone,333,0
+Other,Industrial,Color Consultation,"₹50,000 - ₹2,00,000",1-4 Weeks,Hyderabad,Email,328,0
+Product Inquiry,Residential,Professional Painting,"₹50,000 - ₹2,00,000",1-4 Weeks,Coimbatore,WhatsApp,286,0
+Product Inquiry,Commercial,Professional Painting,"₹50,000 - ₹2,00,000",1-3 Months,Pune,Phone,301,0
+Dealership Inquiry,Residential,Color Consultation,"Below ₹10,000",1-4 Weeks,Delhi,WhatsApp,107,0
+Bulk Order Inquiry,Industrial,Color Consultation,"₹50,000 - ₹2,00,000",1-4 Weeks,Mumbai,Phone,116,0
+Other,Industrial,Maintenance Program,"₹50,000 - ₹2,00,000",3+ Months,Bengaluru,Email,312,0
+General Feedback,Industrial,Special Effects & Textures,"Below ₹10,000",1-3 Months,Coimbatore,WhatsApp,40,0
+General Feedback,Residential,Maintenance Program,"₹2,00,000 - ₹10,00,000",1-3 Months,Kochi,Phone,259,1
+Technical Support,Residential,Exterior Solutions,"₹2,00,000 - ₹10,00,000",3+ Months,Mumbai,Phone,334,1
+General Feedback,Industrial,Commercial Services,"₹10,000 - ₹50,000",3+ Months,Coimbatore,Phone,185,0
+Product Inquiry,Industrial,Color Consultation,"₹50,000 - ₹2,00,000",1-3 Months,Trivandrum,Email,335,0
+Technical Support,Commercial,Color Consultation,"₹10,000 - ₹50,000",1-3 Months,Mumbai,Phone,249,0
+Dealership Inquiry,Industrial,Interior Solutions,"₹10,000 - ₹50,000",3+ Months,Madurai,Phone,256,0
+Other,Industrial,Exterior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Mumbai,Phone,322,0
+Dealership Inquiry,Commercial,Maintenance Program,"₹10,000 - ₹50,000",3+ Months,Coimbatore,WhatsApp,335,1
+Product Inquiry,Commercial,Maintenance Program,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Mumbai,Email,157,1
+Product Inquiry,Industrial,Special Effects & Textures,"₹10,000 - ₹50,000",1-4 Weeks,Chennai,Email,321,0
+Technical Support,Commercial,Commercial Services,"₹50,000 - ₹2,00,000",1-3 Months,Coimbatore,Email,114,0
+Product Inquiry,Industrial,Exterior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Coimbatore,WhatsApp,59,0
+Dealership Inquiry,Residential,Special Effects & Textures,"₹10,000 - ₹50,000",3+ Months,Kochi,Phone,69,0
+Product Inquiry,Commercial,Professional Painting,"₹2,00,000 - ₹10,00,000",3+ Months,Chennai,WhatsApp,305,1
+Dealership Inquiry,Commercial,Professional Painting,"₹50,000 - ₹2,00,000",1-3 Months,Chennai,Email,58,0
+Product Inquiry,Commercial,Commercial Services,"₹10,000 - ₹50,000",1-4 Weeks,Delhi,WhatsApp,242,0
+Product Inquiry,Commercial,Special Effects & Textures,"₹50,000 - ₹2,00,000",3+ Months,Trivandrum,WhatsApp,321,0
+Technical Support,Residential,Exterior Solutions,"Above ₹10,00,000",1-4 Weeks,Coimbatore,WhatsApp,350,1
+Product Inquiry,Residential,Commercial Services,"Below ₹10,000",1-4 Weeks,Hyderabad,Phone,326,0
+Other,Industrial,Interior Solutions,"₹2,00,000 - ₹10,00,000",3+ Months,Kochi,Phone,315,1
+Dealership Inquiry,Industrial,Exterior Solutions,"₹2,00,000 - ₹10,00,000",1-3 Months,Madurai,Email,274,1
+General Feedback,Industrial,Special Effects & Textures,"₹10,000 - ₹50,000",1-4 Weeks,Delhi,Phone,152,0
+General Feedback,Residential,Interior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Bengaluru,Phone,174,0
+Dealership Inquiry,Commercial,Interior Solutions,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Pune,Email,131,2
+Bulk Order Inquiry,Commercial,Special Effects & Textures,"₹10,000 - ₹50,000",3+ Months,Delhi,Email,137,0
+Bulk Order Inquiry,Residential,Maintenance Program,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Madurai,Phone,143,1
+Product Inquiry,Industrial,Color Consultation,"Below ₹10,000",3+ Months,Trivandrum,Email,292,0
+Bulk Order Inquiry,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Mumbai,WhatsApp,334,0
+Product Inquiry,Industrial,Maintenance Program,"₹10,000 - ₹50,000",1-3 Months,Coimbatore,Phone,67,0
+Other,Commercial,Color Consultation,"Below ₹10,000",1-4 Weeks,Trivandrum,Phone,129,0
+Technical Support,Industrial,Color Consultation,"Below ₹10,000",1-3 Months,Pune,Phone,234,0
+Dealership Inquiry,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Madurai,Phone,161,0
+Technical Support,Commercial,Maintenance Program,"₹10,000 - ₹50,000",1-4 Weeks,Coimbatore,Phone,230,0
+General Feedback,Residential,Special Effects & Textures,"₹50,000 - ₹2,00,000",3+ Months,Hyderabad,Email,157,0
+Dealership Inquiry,Commercial,Maintenance Program,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Chennai,Email,116,2
+General Feedback,Industrial,Special Effects & Textures,"Below ₹10,000",3+ Months,Pune,Phone,304,0
+Technical Support,Residential,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-3 Months,Mumbai,Email,243,0
+Product Inquiry,Commercial,Special Effects & Textures,"₹10,000 - ₹50,000",1-3 Months,Pune,Phone,89,0
+Technical Support,Commercial,Color Consultation,"₹50,000 - ₹2,00,000",3+ Months,Coimbatore,Email,171,0
+Technical Support,Industrial,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-3 Months,Trivandrum,Email,335,0
+Other,Commercial,Maintenance Program,"₹10,000 - ₹50,000",1-4 Weeks,Kochi,Email,301,0
+Technical Support,Residential,Special Effects & Textures,"₹10,000 - ₹50,000",1-3 Months,Pune,Phone,114,0
+Dealership Inquiry,Residential,Professional Painting,"₹50,000 - ₹2,00,000",1-3 Months,Pune,Email,76,0
+Technical Support,Industrial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Hyderabad,Phone,349,0
+Bulk Order Inquiry,Commercial,Exterior Solutions,"Above ₹10,00,000",1-3 Months,Mumbai,Email,306,1
+Bulk Order Inquiry,Industrial,Special Effects & Textures,"Below ₹10,000",1-4 Weeks,Bengaluru,Email,168,0
+Product Inquiry,Industrial,Color Consultation,"Below ₹10,000",Urgent (Within 1 Week),Chennai,Phone,282,0
+Dealership Inquiry,Residential,Special Effects & Textures,"Above ₹10,00,000",Urgent (Within 1 Week),Coimbatore,Phone,119,2
+Product Inquiry,Residential,Commercial Services,"₹50,000 - ₹2,00,000",1-4 Weeks,Mumbai,Email,104,0
+Product Inquiry,Commercial,Maintenance Program,"₹10,000 - ₹50,000",3+ Months,Trivandrum,Phone,283,0
+Dealership Inquiry,Residential,Commercial Services,"Below ₹10,000",3+ Months,Madurai,Phone,316,0
+Dealership Inquiry,Industrial,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-3 Months,Trivandrum,Phone,308,0
+Other,Commercial,Interior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Pune,Phone,85,0
+Product Inquiry,Commercial,Interior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Kochi,WhatsApp,109,0
+Product Inquiry,Commercial,Color Consultation,"Above ₹10,00,000",3+ Months,Coimbatore,Phone,284,1
+Dealership Inquiry,Commercial,Commercial Services,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Coimbatore,Phone,136,1
+Product Inquiry,Residential,Interior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Bengaluru,Phone,233,0
+Dealership Inquiry,Commercial,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-3 Months,Trivandrum,Phone,179,0
+General Feedback,Residential,Special Effects & Textures,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Kochi,WhatsApp,188,1
+General Feedback,Residential,Professional Painting,"₹50,000 - ₹2,00,000",1-4 Weeks,Chennai,WhatsApp,204,0
+Product Inquiry,Industrial,Exterior Solutions,"Above ₹10,00,000",1-4 Weeks,Chennai,Email,104,1
+Product Inquiry,Commercial,Maintenance Program,"Below ₹10,000",1-4 Weeks,Kochi,Phone,255,0
+General Feedback,Residential,Interior Solutions,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Coimbatore,Email,114,1
+Dealership Inquiry,Commercial,Maintenance Program,"Below ₹10,000",3+ Months,Chennai,Email,168,0
+Other,Residential,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-4 Weeks,Chennai,Email,266,1
+General Feedback,Commercial,Exterior Solutions,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Hyderabad,Phone,146,1
+Product Inquiry,Industrial,Color Consultation,"₹50,000 - ₹2,00,000",1-3 Months,Hyderabad,Phone,321,0
+Dealership Inquiry,Residential,Professional Painting,"Below ₹10,000",3+ Months,Coimbatore,Phone,151,0
+Product Inquiry,Residential,Color Consultation,"₹2,00,000 - ₹10,00,000",1-3 Months,Chennai,WhatsApp,242,1
+Bulk Order Inquiry,Residential,Professional Painting,"₹10,000 - ₹50,000",1-3 Months,Mumbai,Phone,230,0
+Product Inquiry,Residential,Interior Solutions,"₹50,000 - ₹2,00,000",3+ Months,Mumbai,WhatsApp,70,0
+Dealership Inquiry,Industrial,Maintenance Program,"Below ₹10,000",1-4 Weeks,Pune,Phone,202,0
+Bulk Order Inquiry,Commercial,Color Consultation,"Below ₹10,000",1-4 Weeks,Kochi,WhatsApp,108,0
+General Feedback,Industrial,Professional Painting,"₹10,000 - ₹50,000",1-3 Months,Trivandrum,Phone,137,0
+Technical Support,Industrial,Professional Painting,"₹10,000 - ₹50,000",3+ Months,Bengaluru,WhatsApp,346,0
+Product Inquiry,Commercial,Color Consultation,"₹10,000 - ₹50,000",1-4 Weeks,Trivandrum,Phone,227,0
+Bulk Order Inquiry,Industrial,Professional Painting,"₹2,00,000 - ₹10,00,000",1-3 Months,Pune,WhatsApp,226,1
+Product Inquiry,Industrial,Special Effects & Textures,"Above ₹10,00,000",1-3 Months,Kochi,WhatsApp,137,1
+Product Inquiry,Residential,Color Consultation,"₹10,000 - ₹50,000",1-4 Weeks,Trivandrum,WhatsApp,204,0
+Product Inquiry,Residential,Color Consultation,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Kochi,Email,56,1
+Product Inquiry,Industrial,Commercial Services,"₹50,000 - ₹2,00,000",1-3 Months,Madurai,Phone,290,0
+Product Inquiry,Residential,Special Effects & Textures,"₹10,000 - ₹50,000",1-3 Months,Kochi,Email,46,0
+General Feedback,Commercial,Maintenance Program,"₹50,000 - ₹2,00,000",1-4 Weeks,Chennai,WhatsApp,252,0
+Product Inquiry,Residential,Professional Painting,"Below ₹10,000",Urgent (Within 1 Week),Trivandrum,Email,195,0
+Product Inquiry,Industrial,Special Effects & Textures,"₹10,000 - ₹50,000",1-4 Weeks,Delhi,WhatsApp,138,0
+Dealership Inquiry,Industrial,Color Consultation,"Below ₹10,000",1-3 Months,Madurai,Phone,252,0
+Dealership Inquiry,Residential,Maintenance Program,"₹50,000 - ₹2,00,000",1-4 Weeks,Mumbai,WhatsApp,93,0
+General Feedback,Commercial,Interior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Pune,WhatsApp,347,0
+Other,Industrial,Interior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Madurai,Email,260,0
+Dealership Inquiry,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",1-3 Months,Kochi,Phone,170,0
+Product Inquiry,Industrial,Professional Painting,"Below ₹10,000",1-4 Weeks,Hyderabad,Email,48,0
+Technical Support,Industrial,Maintenance Program,"₹10,000 - ₹50,000",3+ Months,Hyderabad,WhatsApp,51,0
+Dealership Inquiry,Residential,Exterior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Pune,Email,88,0
+Product Inquiry,Commercial,Maintenance Program,"₹10,000 - ₹50,000",1-3 Months,Hyderabad,Email,159,0
+Dealership Inquiry,Industrial,Interior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Kochi,Email,79,0
+General Feedback,Industrial,Special Effects & Textures,"₹2,00,000 - ₹10,00,000",1-3 Months,Hyderabad,Email,88,1
+Bulk Order Inquiry,Commercial,Interior Solutions,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Coimbatore,Phone,68,1
+Other,Residential,Special Effects & Textures,"Below ₹10,000",1-3 Months,Coimbatore,Email,348,0
+Technical Support,Commercial,Commercial Services,"Below ₹10,000",1-4 Weeks,Delhi,Email,116,0
+Product Inquiry,Industrial,Commercial Services,"₹50,000 - ₹2,00,000",1-4 Weeks,Trivandrum,Email,268,0
+Product Inquiry,Commercial,Color Consultation,"₹10,000 - ₹50,000",1-4 Weeks,Kochi,WhatsApp,107,0
+Bulk Order Inquiry,Industrial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Mumbai,Email,244,0
+General Feedback,Residential,Commercial Services,"Below ₹10,000",1-4 Weeks,Madurai,WhatsApp,332,0
+Dealership Inquiry,Commercial,Special Effects & Textures,"₹10,000 - ₹50,000",1-4 Weeks,Madurai,Email,260,0
+Product Inquiry,Commercial,Interior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Madurai,WhatsApp,137,0
+Product Inquiry,Industrial,Professional Painting,"₹10,000 - ₹50,000",3+ Months,Kochi,Email,266,0
+Other,Industrial,Maintenance Program,"₹10,000 - ₹50,000",1-3 Months,Bengaluru,Email,119,0
+Bulk Order Inquiry,Commercial,Color Consultation,"₹10,000 - ₹50,000",1-3 Months,Pune,WhatsApp,115,0
+Bulk Order Inquiry,Residential,Special Effects & Textures,"₹10,000 - ₹50,000",1-4 Weeks,Trivandrum,Email,209,0
+Product Inquiry,Industrial,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-4 Weeks,Mumbai,WhatsApp,287,0
+Dealership Inquiry,Residential,Interior Solutions,"Below ₹10,000",1-3 Months,Mumbai,Email,309,0
+Product Inquiry,Commercial,Special Effects & Textures,"₹2,00,000 - ₹10,00,000",1-3 Months,Chennai,Email,67,1
+Technical Support,Residential,Color Consultation,"₹10,000 - ₹50,000",3+ Months,Hyderabad,WhatsApp,224,0
+Technical Support,Commercial,Exterior Solutions,"Above ₹10,00,000",1-4 Weeks,Madurai,WhatsApp,90,1
+Product Inquiry,Industrial,Color Consultation,"Below ₹10,000",3+ Months,Chennai,Email,327,0
+Other,Residential,Interior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Pune,Phone,120,0
+Dealership Inquiry,Commercial,Maintenance Program,"₹10,000 - ₹50,000",3+ Months,Chennai,WhatsApp,296,0
+Product Inquiry,Industrial,Interior Solutions,"₹10,000 - ₹50,000",3+ Months,Delhi,Email,55,0
+Technical Support,Industrial,Special Effects & Textures,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Madurai,WhatsApp,235,0
+Dealership Inquiry,Commercial,Commercial Services,"₹10,000 - ₹50,000",1-3 Months,Pune,Phone,258,1
+Dealership Inquiry,Industrial,Maintenance Program,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Delhi,Email,317,1
+Technical Support,Commercial,Maintenance Program,"₹50,000 - ₹2,00,000",1-4 Weeks,Mumbai,WhatsApp,109,0
+Other,Industrial,Special Effects & Textures,"Above ₹10,00,000",1-4 Weeks,Bengaluru,Email,325,1
+Technical Support,Commercial,Exterior Solutions,"₹2,00,000 - ₹10,00,000",1-3 Months,Hyderabad,Phone,203,1
+Bulk Order Inquiry,Residential,Maintenance Program,"₹2,00,000 - ₹10,00,000",1-3 Months,Delhi,Email,180,1
+Product Inquiry,Industrial,Commercial Services,"Below ₹10,000",3+ Months,Madurai,Email,176,0
+Dealership Inquiry,Industrial,Maintenance Program,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Kochi,Email,80,1
+Dealership Inquiry,Residential,Maintenance Program,"₹50,000 - ₹2,00,000",1-3 Months,Coimbatore,Phone,231,0
+General Feedback,Residential,Interior Solutions,"Below ₹10,000",1-4 Weeks,Coimbatore,Email,249,0
+Bulk Order Inquiry,Residential,Exterior Solutions,"Above ₹10,00,000",1-3 Months,Madurai,Phone,73,1
+Dealership Inquiry,Commercial,Maintenance Program,"₹2,00,000 - ₹10,00,000",3+ Months,Chennai,WhatsApp,258,1
+Bulk Order Inquiry,Industrial,Commercial Services,"₹10,000 - ₹50,000",1-4 Weeks,Trivandrum,WhatsApp,332,0
+Bulk Order Inquiry,Commercial,Maintenance Program,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Chennai,Email,271,1
+Dealership Inquiry,Commercial,Commercial Services,"₹10,000 - ₹50,000",1-3 Months,Chennai,Email,325,0
+Product Inquiry,Commercial,Professional Painting,"₹10,000 - ₹50,000",1-4 Weeks,Coimbatore,Phone,186,0
+Dealership Inquiry,Commercial,Maintenance Program,"Below ₹10,000",1-4 Weeks,Kochi,Email,112,0
+Bulk Order Inquiry,Residential,Exterior Solutions,"Below ₹10,000",1-3 Months,Coimbatore,Phone,319,0
+General Feedback,Commercial,Color Consultation,"Below ₹10,000",1-3 Months,Hyderabad,Phone,143,0
+Dealership Inquiry,Residential,Color Consultation,"Above ₹10,00,000",1-3 Months,Kochi,WhatsApp,103,1
+Technical Support,Industrial,Professional Painting,"₹50,000 - ₹2,00,000",1-4 Weeks,Coimbatore,WhatsApp,301,0
+Technical Support,Industrial,Maintenance Program,"₹2,00,000 - ₹10,00,000",3+ Months,Mumbai,Email,329,1
+Bulk Order Inquiry,Commercial,Interior Solutions,"Below ₹10,000",1-3 Months,Kochi,Phone,254,0
+Dealership Inquiry,Residential,Commercial Services,"Below ₹10,000",Urgent (Within 1 Week),Hyderabad,Email,143,1
+General Feedback,Industrial,Exterior Solutions,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Delhi,Email,42,1
+Dealership Inquiry,Industrial,Commercial Services,"₹10,000 - ₹50,000",1-4 Weeks,Chennai,Email,80,0
+Bulk Order Inquiry,Residential,Professional Painting,"₹10,000 - ₹50,000",1-3 Months,Mumbai,Email,146,0
+Dealership Inquiry,Industrial,Interior Solutions,"Below ₹10,000",3+ Months,Pune,Email,335,0
+Product Inquiry,Industrial,Special Effects & Textures,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Madurai,WhatsApp,185,0
+Bulk Order Inquiry,Commercial,Color Consultation,"Below ₹10,000",1-4 Weeks,Bengaluru,Phone,336,0
+Technical Support,Industrial,Color Consultation,"₹2,00,000 - ₹10,00,000",1-3 Months,Hyderabad,Phone,258,1
+Product Inquiry,Commercial,Commercial Services,"₹50,000 - ₹2,00,000",1-4 Weeks,Delhi,WhatsApp,309,0
+Product Inquiry,Residential,Exterior Solutions,"Below ₹10,000",1-3 Months,Madurai,WhatsApp,310,0
+Product Inquiry,Industrial,Commercial Services,"₹50,000 - ₹2,00,000",1-4 Weeks,Pune,Email,309,0
+Dealership Inquiry,Commercial,Maintenance Program,"₹10,000 - ₹50,000",1-3 Months,Mumbai,WhatsApp,294,0
+Product Inquiry,Residential,Exterior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Bengaluru,WhatsApp,100,0
+Bulk Order Inquiry,Residential,Interior Solutions,"₹2,00,000 - ₹10,00,000",3+ Months,Pune,WhatsApp,251,1
+Bulk Order Inquiry,Commercial,Maintenance Program,"₹10,000 - ₹50,000",1-3 Months,Bengaluru,Phone,184,0
+Technical Support,Industrial,Interior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Pune,Phone,98,0
+Bulk Order Inquiry,Residential,Interior Solutions,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Pune,WhatsApp,129,1
+General Feedback,Commercial,Professional Painting,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Kochi,WhatsApp,109,0
+Bulk Order Inquiry,Industrial,Interior Solutions,"₹10,000 - ₹50,000",1-3 Months,Madurai,WhatsApp,68,0
+Dealership Inquiry,Industrial,Interior Solutions,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Pune,Email,335,1
+Other,Industrial,Commercial Services,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Mumbai,WhatsApp,232,1
+Dealership Inquiry,Industrial,Maintenance Program,"Below ₹10,000",Urgent (Within 1 Week),Pune,WhatsApp,197,1
+Product Inquiry,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Hyderabad,Email,161,0
+Dealership Inquiry,Residential,Color Consultation,"Below ₹10,000",1-4 Weeks,Kochi,WhatsApp,59,0
+Product Inquiry,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Trivandrum,Phone,137,0
+Bulk Order Inquiry,Industrial,Professional Painting,"Below ₹10,000",3+ Months,Delhi,WhatsApp,304,0
+Product Inquiry,Residential,Interior Solutions,"₹10,000 - ₹50,000",3+ Months,Chennai,WhatsApp,99,0
+Bulk Order Inquiry,Residential,Commercial Services,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Hyderabad,Email,63,1
+Dealership Inquiry,Residential,Professional Painting,"₹10,000 - ₹50,000",3+ Months,Hyderabad,Phone,204,0
+Dealership Inquiry,Residential,Professional Painting,"₹2,00,000 - ₹10,00,000",1-3 Months,Hyderabad,Email,179,1
+Product Inquiry,Industrial,Interior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Trivandrum,Phone,145,0
+Product Inquiry,Residential,Professional Painting,"Above ₹10,00,000",1-3 Months,Bengaluru,Phone,333,1
+Dealership Inquiry,Residential,Exterior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Chennai,Email,106,0
+Technical Support,Industrial,Special Effects & Textures,"Below ₹10,000",1-4 Weeks,Kochi,WhatsApp,345,0
+Technical Support,Residential,Maintenance Program,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Kochi,WhatsApp,313,0
+Product Inquiry,Residential,Exterior Solutions,"₹2,00,000 - ₹10,00,000",3+ Months,Hyderabad,WhatsApp,279,1
+Dealership Inquiry,Residential,Maintenance Program,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Madurai,Phone,154,1
+Other,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",1-3 Months,Kochi,Email,209,0
+Product Inquiry,Commercial,Maintenance Program,"Below ₹10,000",1-4 Weeks,Pune,WhatsApp,127,0
+Dealership Inquiry,Commercial,Commercial Services,"₹50,000 - ₹2,00,000",1-4 Weeks,Bengaluru,Phone,94,0
+Dealership Inquiry,Industrial,Professional Painting,"₹10,000 - ₹50,000",1-4 Weeks,Kochi,Phone,164,0
+Product Inquiry,Commercial,Commercial Services,"₹10,000 - ₹50,000",1-3 Months,Pune,WhatsApp,260,0
+Dealership Inquiry,Commercial,Color Consultation,"Below ₹10,000",1-3 Months,Madurai,WhatsApp,333,0
+General Feedback,Commercial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Bengaluru,WhatsApp,130,0
+Product Inquiry,Commercial,Exterior Solutions,"₹2,00,000 - ₹10,00,000",1-3 Months,Chennai,Email,234,1
+Product Inquiry,Residential,Special Effects & Textures,"Below ₹10,000",1-3 Months,Mumbai,Phone,40,0
+Dealership Inquiry,Residential,Special Effects & Textures,"₹10,000 - ₹50,000",1-3 Months,Pune,Phone,140,0
+Dealership Inquiry,Industrial,Interior Solutions,"Above ₹10,00,000",1-4 Weeks,Bengaluru,WhatsApp,262,1
+Product Inquiry,Commercial,Color Consultation,"Above ₹10,00,000",1-4 Weeks,Pune,WhatsApp,105,1
+Other,Residential,Maintenance Program,"Below ₹10,000",1-3 Months,Hyderabad,Email,223,0
+Product Inquiry,Industrial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Coimbatore,Phone,202,0
+General Feedback,Residential,Commercial Services,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Coimbatore,Phone,111,0
+Bulk Order Inquiry,Residential,Color Consultation,"Below ₹10,000",3+ Months,Bengaluru,WhatsApp,104,0
+Product Inquiry,Residential,Color Consultation,"₹50,000 - ₹2,00,000",1-4 Weeks,Mumbai,WhatsApp,263,0
+Bulk Order Inquiry,Commercial,Commercial Services,"₹2,00,000 - ₹10,00,000",3+ Months,Mumbai,Phone,349,1
+Dealership Inquiry,Residential,Professional Painting,"₹50,000 - ₹2,00,000",1-4 Weeks,Coimbatore,WhatsApp,221,0
+Product Inquiry,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",1-3 Months,Trivandrum,WhatsApp,296,0
+Technical Support,Residential,Commercial Services,"Above ₹10,00,000",1-3 Months,Kochi,WhatsApp,228,1
+Product Inquiry,Commercial,Commercial Services,"₹50,000 - ₹2,00,000",1-4 Weeks,Bengaluru,WhatsApp,183,0
+Bulk Order Inquiry,Industrial,Special Effects & Textures,"Below ₹10,000",1-4 Weeks,Trivandrum,WhatsApp,79,0
+Technical Support,Commercial,Exterior Solutions,"Below ₹10,000",1-4 Weeks,Trivandrum,Phone,45,0
+Dealership Inquiry,Commercial,Professional Painting,"₹10,000 - ₹50,000",1-4 Weeks,Chennai,WhatsApp,190,0
+Other,Commercial,Color Consultation,"₹50,000 - ₹2,00,000",1-3 Months,Kochi,WhatsApp,328,0
+Product Inquiry,Commercial,Exterior Solutions,"Below ₹10,000",3+ Months,Bengaluru,Email,53,0
+Dealership Inquiry,Industrial,Interior Solutions,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Hyderabad,Phone,107,1
+Product Inquiry,Industrial,Professional Painting,"Below ₹10,000",Urgent (Within 1 Week),Kochi,Phone,342,0
+Bulk Order Inquiry,Residential,Maintenance Program,"₹10,000 - ₹50,000",1-3 Months,Trivandrum,Email,288,0
+Technical Support,Commercial,Maintenance Program,"Below ₹10,000",Urgent (Within 1 Week),Coimbatore,Phone,118,0
+Product Inquiry,Industrial,Special Effects & Textures,"₹10,000 - ₹50,000",1-3 Months,Pune,Email,147,0
+Dealership Inquiry,Commercial,Exterior Solutions,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Kochi,Phone,125,2
+General Feedback,Commercial,Special Effects & Textures,"Above ₹10,00,000",3+ Months,Coimbatore,Phone,159,1
+Product Inquiry,Commercial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Pune,WhatsApp,187,0
+Dealership Inquiry,Commercial,Commercial Services,"Below ₹10,000",3+ Months,Hyderabad,Phone,221,0
+Product Inquiry,Commercial,Exterior Solutions,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Delhi,WhatsApp,339,1
+Dealership Inquiry,Commercial,Commercial Services,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Chennai,WhatsApp,132,1
+Product Inquiry,Residential,Special Effects & Textures,"Below ₹10,000",1-4 Weeks,Kochi,Phone,308,0
+Product Inquiry,Industrial,Color Consultation,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Chennai,WhatsApp,52,0
+Dealership Inquiry,Industrial,Color Consultation,"₹2,00,000 - ₹10,00,000",3+ Months,Bengaluru,WhatsApp,102,1
+Product Inquiry,Residential,Color Consultation,"₹50,000 - ₹2,00,000",3+ Months,Mumbai,Phone,329,0
+Product Inquiry,Commercial,Maintenance Program,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Coimbatore,WhatsApp,272,0
+Other,Residential,Interior Solutions,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Chennai,Phone,122,1
+Technical Support,Residential,Exterior Solutions,"Above ₹10,00,000",1-4 Weeks,Bengaluru,Phone,175,1
+Other,Residential,Professional Painting,"₹10,000 - ₹50,000",1-4 Weeks,Trivandrum,Phone,291,0
+Product Inquiry,Residential,Color Consultation,"₹50,000 - ₹2,00,000",3+ Months,Bengaluru,Email,172,0
+Dealership Inquiry,Residential,Special Effects & Textures,"₹10,000 - ₹50,000",1-4 Weeks,Chennai,Email,294,0
+Dealership Inquiry,Industrial,Color Consultation,"₹10,000 - ₹50,000",1-3 Months,Trivandrum,WhatsApp,240,0
+Other,Industrial,Professional Painting,"₹10,000 - ₹50,000",1-4 Weeks,Chennai,Phone,75,0
+Other,Industrial,Interior Solutions,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Pune,WhatsApp,330,1
+Technical Support,Commercial,Commercial Services,"Below ₹10,000",3+ Months,Pune,Email,86,0
+Bulk Order Inquiry,Residential,Commercial Services,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Chennai,Phone,143,1
+Dealership Inquiry,Industrial,Special Effects & Textures,"₹10,000 - ₹50,000",1-4 Weeks,Pune,Phone,94,0
+Product Inquiry,Residential,Professional Painting,"₹50,000 - ₹2,00,000",1-3 Months,Chennai,WhatsApp,111,0
+Other,Industrial,Interior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Kochi,WhatsApp,316,0
+Other,Residential,Interior Solutions,"₹2,00,000 - ₹10,00,000",3+ Months,Chennai,Phone,48,1
+Bulk Order Inquiry,Commercial,Special Effects & Textures,"Below ₹10,000",Urgent (Within 1 Week),Trivandrum,Email,307,1
+Bulk Order Inquiry,Commercial,Special Effects & Textures,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Chennai,Phone,112,1
+Other,Residential,Professional Painting,"₹50,000 - ₹2,00,000",1-4 Weeks,Chennai,Phone,106,0
+Bulk Order Inquiry,Residential,Maintenance Program,"Below ₹10,000",1-3 Months,Bengaluru,Email,342,0
+General Feedback,Commercial,Interior Solutions,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Coimbatore,Phone,143,1
+Product Inquiry,Residential,Maintenance Program,"₹50,000 - ₹2,00,000",1-4 Weeks,Chennai,WhatsApp,204,1
+Product Inquiry,Residential,Special Effects & Textures,"Below ₹10,000",1-4 Weeks,Pune,WhatsApp,252,0
+Product Inquiry,Residential,Maintenance Program,"₹10,000 - ₹50,000",1-3 Months,Madurai,Phone,108,0
+Bulk Order Inquiry,Residential,Professional Painting,"Below ₹10,000",1-4 Weeks,Bengaluru,WhatsApp,43,0
+Dealership Inquiry,Industrial,Professional Painting,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Delhi,Email,283,1
+Dealership Inquiry,Industrial,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-4 Weeks,Chennai,WhatsApp,129,0
+Product Inquiry,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",3+ Months,Chennai,WhatsApp,194,0
+Product Inquiry,Industrial,Interior Solutions,"Below ₹10,000",1-4 Weeks,Trivandrum,WhatsApp,88,0
+Product Inquiry,Residential,Professional Painting,"₹2,00,000 - ₹10,00,000",1-3 Months,Bengaluru,Email,181,1
+Dealership Inquiry,Residential,Special Effects & Textures,"Above ₹10,00,000",1-4 Weeks,Chennai,Email,130,1
+Dealership Inquiry,Industrial,Maintenance Program,"₹10,000 - ₹50,000",1-4 Weeks,Kochi,Email,211,0
+Product Inquiry,Residential,Exterior Solutions,"Below ₹10,000",1-4 Weeks,Trivandrum,Email,120,0
+Product Inquiry,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Delhi,WhatsApp,336,0
+Dealership Inquiry,Residential,Color Consultation,"₹10,000 - ₹50,000",1-3 Months,Delhi,WhatsApp,206,0
+General Feedback,Commercial,Commercial Services,"Below ₹10,000",3+ Months,Kochi,Email,77,0
+Bulk Order Inquiry,Residential,Exterior Solutions,"Below ₹10,000",3+ Months,Pune,Email,272,0
+General Feedback,Residential,Interior Solutions,"Below ₹10,000",1-4 Weeks,Mumbai,Email,178,0
+Dealership Inquiry,Commercial,Exterior Solutions,"Below ₹10,000",Urgent (Within 1 Week),Mumbai,Phone,278,1
+Product Inquiry,Industrial,Commercial Services,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Delhi,Email,127,0
+General Feedback,Industrial,Exterior Solutions,"₹50,000 - ₹2,00,000",3+ Months,Kochi,Phone,150,0
+Product Inquiry,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",3+ Months,Madurai,Email,166,0
+Bulk Order Inquiry,Residential,Exterior Solutions,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Chennai,Email,333,1
+Other,Industrial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Kochi,WhatsApp,257,0
+Bulk Order Inquiry,Residential,Special Effects & Textures,"₹10,000 - ₹50,000",1-4 Weeks,Coimbatore,Email,325,0
+Product Inquiry,Residential,Exterior Solutions,"₹10,000 - ₹50,000",1-3 Months,Hyderabad,Email,86,0
+Bulk Order Inquiry,Commercial,Exterior Solutions,"₹2,00,000 - ₹10,00,000",1-3 Months,Mumbai,WhatsApp,52,1
+General Feedback,Industrial,Special Effects & Textures,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Chennai,WhatsApp,277,2
+Product Inquiry,Commercial,Exterior Solutions,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Hyderabad,WhatsApp,56,1
+Other,Industrial,Interior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Chennai,WhatsApp,81,0
+Other,Commercial,Interior Solutions,"₹50,000 - ₹2,00,000",3+ Months,Kochi,WhatsApp,96,0
+Product Inquiry,Industrial,Special Effects & Textures,"₹10,000 - ₹50,000",1-3 Months,Delhi,Email,74,0
+Other,Industrial,Maintenance Program,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Madurai,WhatsApp,284,0
+Product Inquiry,Commercial,Commercial Services,"₹50,000 - ₹2,00,000",1-4 Weeks,Coimbatore,Phone,220,0
+Product Inquiry,Industrial,Maintenance Program,"₹10,000 - ₹50,000",1-4 Weeks,Bengaluru,Phone,296,0
+Bulk Order Inquiry,Commercial,Commercial Services,"₹50,000 - ₹2,00,000",1-4 Weeks,Pune,WhatsApp,189,0
+Other,Residential,Exterior Solutions,"₹2,00,000 - ₹10,00,000",3+ Months,Bengaluru,Email,73,1
+Technical Support,Residential,Professional Painting,"Below ₹10,000",3+ Months,Hyderabad,Email,79,0
+Dealership Inquiry,Industrial,Color Consultation,"₹10,000 - ₹50,000",3+ Months,Hyderabad,Phone,306,0
+Other,Commercial,Exterior Solutions,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Chennai,Phone,217,0
+Product Inquiry,Industrial,Interior Solutions,"Below ₹10,000",1-3 Months,Coimbatore,WhatsApp,306,0
+Technical Support,Industrial,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-4 Weeks,Trivandrum,WhatsApp,343,0
+General Feedback,Residential,Maintenance Program,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Hyderabad,Email,196,0
+General Feedback,Residential,Interior Solutions,"Above ₹10,00,000",1-3 Months,Hyderabad,Phone,64,1
+Other,Commercial,Professional Painting,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Mumbai,WhatsApp,314,0
+Dealership Inquiry,Residential,Color Consultation,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Pune,WhatsApp,161,1
+Product Inquiry,Industrial,Color Consultation,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Pune,Phone,327,0
+Product Inquiry,Commercial,Color Consultation,"₹10,000 - ₹50,000",3+ Months,Chennai,Phone,313,0
+Other,Residential,Color Consultation,"₹2,00,000 - ₹10,00,000",3+ Months,Trivandrum,WhatsApp,203,1
+Technical Support,Industrial,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-4 Weeks,Mumbai,WhatsApp,188,0
+Bulk Order Inquiry,Industrial,Exterior Solutions,"Above ₹10,00,000",1-4 Weeks,Chennai,Email,97,1
+Dealership Inquiry,Commercial,Interior Solutions,"Below ₹10,000",Urgent (Within 1 Week),Bengaluru,Phone,152,1
+Product Inquiry,Commercial,Professional Painting,"₹50,000 - ₹2,00,000",1-3 Months,Chennai,Email,153,0
+Dealership Inquiry,Industrial,Exterior Solutions,"₹10,000 - ₹50,000",1-3 Months,Delhi,Phone,84,0
+Technical Support,Commercial,Professional Painting,"₹50,000 - ₹2,00,000",3+ Months,Coimbatore,Phone,224,0
+Technical Support,Commercial,Maintenance Program,"Below ₹10,000",1-4 Weeks,Trivandrum,Email,197,0
+Product Inquiry,Commercial,Interior Solutions,"₹2,00,000 - ₹10,00,000",1-3 Months,Mumbai,WhatsApp,252,1
+Other,Industrial,Commercial Services,"₹10,000 - ₹50,000",3+ Months,Bengaluru,Email,111,0
+Product Inquiry,Residential,Commercial Services,"₹10,000 - ₹50,000",3+ Months,Coimbatore,Email,211,0
+Product Inquiry,Industrial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Madurai,Email,129,0
+Product Inquiry,Residential,Maintenance Program,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Hyderabad,WhatsApp,291,1
+Technical Support,Residential,Professional Painting,"₹50,000 - ₹2,00,000",1-4 Weeks,Hyderabad,Phone,53,0
+Other,Commercial,Professional Painting,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Kochi,WhatsApp,187,1
+Dealership Inquiry,Residential,Commercial Services,"Below ₹10,000",1-3 Months,Pune,WhatsApp,292,0
+General Feedback,Industrial,Maintenance Program,"₹10,000 - ₹50,000",1-4 Weeks,Bengaluru,Phone,283,0
+Dealership Inquiry,Industrial,Color Consultation,"₹50,000 - ₹2,00,000",1-3 Months,Mumbai,Phone,123,0
+General Feedback,Commercial,Interior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Coimbatore,WhatsApp,67,0
+Other,Industrial,Color Consultation,"₹10,000 - ₹50,000",1-4 Weeks,Trivandrum,Email,311,0
+Bulk Order Inquiry,Industrial,Interior Solutions,"Below ₹10,000",Urgent (Within 1 Week),Pune,WhatsApp,125,1
+Bulk Order Inquiry,Residential,Commercial Services,"₹10,000 - ₹50,000",1-3 Months,Madurai,Phone,225,0
+Bulk Order Inquiry,Commercial,Exterior Solutions,"Below ₹10,000",1-4 Weeks,Pune,Email,230,0
+Product Inquiry,Industrial,Commercial Services,"Below ₹10,000",1-4 Weeks,Trivandrum,WhatsApp,136,0
+Bulk Order Inquiry,Commercial,Color Consultation,"₹50,000 - ₹2,00,000",1-3 Months,Bengaluru,Email,253,0
+Other,Residential,Maintenance Program,"₹10,000 - ₹50,000",1-4 Weeks,Kochi,WhatsApp,225,0
+Dealership Inquiry,Residential,Special Effects & Textures,"Above ₹10,00,000",Urgent (Within 1 Week),Bengaluru,Email,195,2
+Product Inquiry,Residential,Professional Painting,"₹50,000 - ₹2,00,000",1-3 Months,Mumbai,Email,197,0
+General Feedback,Commercial,Maintenance Program,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Coimbatore,Email,49,1
+Product Inquiry,Residential,Exterior Solutions,"Below ₹10,000",1-3 Months,Bengaluru,Phone,343,0
+Product Inquiry,Residential,Commercial Services,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Delhi,WhatsApp,89,0
+Other,Residential,Maintenance Program,"Below ₹10,000",1-4 Weeks,Hyderabad,WhatsApp,86,0
+Technical Support,Industrial,Commercial Services,"Below ₹10,000",1-4 Weeks,Bengaluru,Email,163,0
+Bulk Order Inquiry,Commercial,Professional Painting,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Trivandrum,Email,138,1
+Other,Industrial,Exterior Solutions,"Below ₹10,000",1-4 Weeks,Pune,WhatsApp,298,1
+Dealership Inquiry,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",3+ Months,Coimbatore,Email,132,0
+Dealership Inquiry,Residential,Exterior Solutions,"₹10,000 - ₹50,000",1-3 Months,Bengaluru,WhatsApp,200,0
+Product Inquiry,Industrial,Color Consultation,"₹2,00,000 - ₹10,00,000",1-3 Months,Bengaluru,Phone,325,1
+General Feedback,Industrial,Maintenance Program,"₹10,000 - ₹50,000",1-4 Weeks,Kochi,Email,199,0
+Dealership Inquiry,Residential,Maintenance Program,"₹10,000 - ₹50,000",3+ Months,Kochi,WhatsApp,136,0
+Technical Support,Commercial,Exterior Solutions,"Below ₹10,000",1-3 Months,Trivandrum,WhatsApp,93,0
+Dealership Inquiry,Residential,Special Effects & Textures,"Below ₹10,000",1-4 Weeks,Mumbai,Email,342,0
+Technical Support,Residential,Professional Painting,"Below ₹10,000",1-4 Weeks,Coimbatore,WhatsApp,246,0
+General Feedback,Commercial,Maintenance Program,"₹2,00,000 - ₹10,00,000",1-3 Months,Coimbatore,Phone,343,1
+General Feedback,Industrial,Interior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Mumbai,Phone,288,0
+Product Inquiry,Residential,Color Consultation,"₹10,000 - ₹50,000",1-4 Weeks,Chennai,Email,108,0
+General Feedback,Industrial,Interior Solutions,"Below ₹10,000",Urgent (Within 1 Week),Mumbai,Phone,349,0
+Dealership Inquiry,Commercial,Maintenance Program,"Below ₹10,000",Urgent (Within 1 Week),Kochi,Email,306,1
+Product Inquiry,Commercial,Maintenance Program,"₹10,000 - ₹50,000",1-4 Weeks,Trivandrum,WhatsApp,317,0
+Product Inquiry,Commercial,Exterior Solutions,"₹2,00,000 - ₹10,00,000",3+ Months,Pune,Phone,100,1
+General Feedback,Industrial,Professional Painting,"Below ₹10,000",Urgent (Within 1 Week),Kochi,Phone,195,0
+Product Inquiry,Industrial,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-4 Weeks,Kochi,WhatsApp,96,0
+Dealership Inquiry,Residential,Commercial Services,"₹50,000 - ₹2,00,000",1-4 Weeks,Chennai,Phone,327,0
+Product Inquiry,Commercial,Interior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Chennai,Email,220,0
+Dealership Inquiry,Residential,Maintenance Program,"Below ₹10,000",1-4 Weeks,Pune,Phone,338,0
+Product Inquiry,Residential,Special Effects & Textures,"₹10,000 - ₹50,000",1-4 Weeks,Delhi,Email,219,0
+Product Inquiry,Commercial,Color Consultation,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Pune,Email,73,0
+Product Inquiry,Industrial,Commercial Services,"₹10,000 - ₹50,000",1-4 Weeks,Coimbatore,Phone,256,0
+Product Inquiry,Commercial,Commercial Services,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Coimbatore,Phone,202,0
+Dealership Inquiry,Commercial,Exterior Solutions,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Trivandrum,WhatsApp,145,2
+Technical Support,Residential,Exterior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Bengaluru,WhatsApp,263,0
+Product Inquiry,Commercial,Maintenance Program,"₹10,000 - ₹50,000",1-4 Weeks,Delhi,WhatsApp,333,0
+Bulk Order Inquiry,Industrial,Interior Solutions,"Below ₹10,000",1-3 Months,Hyderabad,Email,88,0
+Dealership Inquiry,Residential,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-4 Weeks,Hyderabad,WhatsApp,217,0
+Bulk Order Inquiry,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Hyderabad,WhatsApp,142,0
+Dealership Inquiry,Industrial,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-4 Weeks,Trivandrum,Email,49,0
+Dealership Inquiry,Commercial,Special Effects & Textures,"₹10,000 - ₹50,000",3+ Months,Trivandrum,WhatsApp,279,0
+Bulk Order Inquiry,Industrial,Professional Painting,"Above ₹10,00,000",3+ Months,Pune,Phone,70,1
+Product Inquiry,Commercial,Exterior Solutions,"Below ₹10,000",1-3 Months,Pune,Email,193,0
+Dealership Inquiry,Industrial,Professional Painting,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Hyderabad,WhatsApp,186,1
+Dealership Inquiry,Residential,Professional Painting,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Hyderabad,Phone,138,1
+General Feedback,Residential,Professional Painting,"Above ₹10,00,000",1-4 Weeks,Hyderabad,Email,58,1
+Product Inquiry,Residential,Special Effects & Textures,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Chennai,WhatsApp,321,1
+General Feedback,Commercial,Commercial Services,"Below ₹10,000",3+ Months,Hyderabad,Email,82,0
+Other,Commercial,Maintenance Program,"₹10,000 - ₹50,000",1-4 Weeks,Mumbai,Email,86,0
+Product Inquiry,Industrial,Maintenance Program,"₹50,000 - ₹2,00,000",3+ Months,Madurai,WhatsApp,307,0
+Product Inquiry,Commercial,Interior Solutions,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Madurai,WhatsApp,102,1
+Technical Support,Residential,Professional Painting,"₹50,000 - ₹2,00,000",1-4 Weeks,Bengaluru,Email,256,0
+Product Inquiry,Residential,Exterior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Trivandrum,Phone,341,0
+Dealership Inquiry,Industrial,Professional Painting,"Below ₹10,000",1-4 Weeks,Hyderabad,Email,283,0
+Technical Support,Industrial,Commercial Services,"₹50,000 - ₹2,00,000",1-3 Months,Chennai,WhatsApp,50,0
+Dealership Inquiry,Commercial,Commercial Services,"Above ₹10,00,000",1-3 Months,Coimbatore,Phone,162,1
+Dealership Inquiry,Industrial,Maintenance Program,"₹50,000 - ₹2,00,000",3+ Months,Delhi,Phone,102,0
+Technical Support,Commercial,Color Consultation,"Above ₹10,00,000",1-4 Weeks,Delhi,Phone,170,1
+Product Inquiry,Industrial,Exterior Solutions,"₹2,00,000 - ₹10,00,000",3+ Months,Chennai,Phone,202,1
+Bulk Order Inquiry,Industrial,Exterior Solutions,"₹2,00,000 - ₹10,00,000",3+ Months,Pune,WhatsApp,281,1
+General Feedback,Industrial,Interior Solutions,"Above ₹10,00,000",Urgent (Within 1 Week),Trivandrum,Email,122,1
+Technical Support,Commercial,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-3 Months,Chennai,Email,207,0
+Dealership Inquiry,Residential,Exterior Solutions,"Below ₹10,000",1-4 Weeks,Delhi,WhatsApp,109,0
+Technical Support,Industrial,Special Effects & Textures,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Mumbai,WhatsApp,167,0
+Dealership Inquiry,Industrial,Professional Painting,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Hyderabad,Email,284,1
+Dealership Inquiry,Residential,Exterior Solutions,"₹2,00,000 - ₹10,00,000",1-3 Months,Pune,Email,141,1
+Technical Support,Residential,Color Consultation,"₹10,000 - ₹50,000",1-3 Months,Chennai,WhatsApp,332,1
+Dealership Inquiry,Residential,Interior Solutions,"₹50,000 - ₹2,00,000",3+ Months,Mumbai,Email,276,0
+General Feedback,Commercial,Professional Painting,"₹10,000 - ₹50,000",1-4 Weeks,Madurai,Email,85,0
+Product Inquiry,Industrial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Bengaluru,Email,272,0
+Bulk Order Inquiry,Commercial,Special Effects & Textures,"Below ₹10,000",3+ Months,Kochi,Phone,176,0
+Product Inquiry,Industrial,Special Effects & Textures,"₹2,00,000 - ₹10,00,000",1-3 Months,Delhi,Phone,184,1
+Product Inquiry,Residential,Commercial Services,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Kochi,Email,174,1
+Technical Support,Commercial,Professional Painting,"₹50,000 - ₹2,00,000",1-4 Weeks,Pune,WhatsApp,45,0
+Technical Support,Industrial,Commercial Services,"₹10,000 - ₹50,000",1-4 Weeks,Hyderabad,Email,256,0
+Product Inquiry,Commercial,Interior Solutions,"Below ₹10,000",1-4 Weeks,Madurai,WhatsApp,160,0
+Other,Residential,Interior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Trivandrum,WhatsApp,63,0
+Technical Support,Industrial,Color Consultation,"Above ₹10,00,000",1-3 Months,Madurai,Email,107,1
+Product Inquiry,Residential,Color Consultation,"₹50,000 - ₹2,00,000",3+ Months,Pune,WhatsApp,279,0
+Dealership Inquiry,Residential,Exterior Solutions,"Below ₹10,000",Urgent (Within 1 Week),Hyderabad,WhatsApp,62,1
+Technical Support,Industrial,Maintenance Program,"₹10,000 - ₹50,000",3+ Months,Hyderabad,WhatsApp,174,0
+Technical Support,Residential,Commercial Services,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Kochi,Email,291,1
+Product Inquiry,Commercial,Professional Painting,"Below ₹10,000",Urgent (Within 1 Week),Kochi,Phone,280,0
+Product Inquiry,Commercial,Special Effects & Textures,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Trivandrum,Phone,266,1
+General Feedback,Residential,Interior Solutions,"Below ₹10,000",1-3 Months,Bengaluru,Email,115,0
+Bulk Order Inquiry,Commercial,Commercial Services,"Below ₹10,000",Urgent (Within 1 Week),Madurai,Email,300,1
+Dealership Inquiry,Residential,Exterior Solutions,"Above ₹10,00,000",1-4 Weeks,Bengaluru,Email,332,1
+Bulk Order Inquiry,Commercial,Special Effects & Textures,"₹50,000 - ₹2,00,000",3+ Months,Bengaluru,Phone,53,0
+Technical Support,Residential,Color Consultation,"Above ₹10,00,000",Urgent (Within 1 Week),Bengaluru,Phone,205,1
+Bulk Order Inquiry,Industrial,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-4 Weeks,Chennai,Phone,177,0
+Other,Industrial,Special Effects & Textures,"₹50,000 - ₹2,00,000",3+ Months,Madurai,Email,206,0
+Product Inquiry,Residential,Special Effects & Textures,"Below ₹10,000",1-3 Months,Bengaluru,WhatsApp,205,0
+Other,Residential,Maintenance Program,"₹10,000 - ₹50,000",1-4 Weeks,Coimbatore,Email,131,0
+Product Inquiry,Commercial,Special Effects & Textures,"₹10,000 - ₹50,000",1-4 Weeks,Mumbai,Email,246,0
+Product Inquiry,Industrial,Commercial Services,"₹2,00,000 - ₹10,00,000",1-3 Months,Mumbai,Phone,198,1
+Dealership Inquiry,Commercial,Exterior Solutions,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Kochi,Phone,290,1
+Dealership Inquiry,Industrial,Professional Painting,"₹10,000 - ₹50,000",1-3 Months,Coimbatore,WhatsApp,228,0
+General Feedback,Industrial,Professional Painting,"Below ₹10,000",1-4 Weeks,Mumbai,Phone,277,0
+Dealership Inquiry,Commercial,Color Consultation,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Kochi,Phone,279,1
+Product Inquiry,Industrial,Exterior Solutions,"Below ₹10,000",3+ Months,Hyderabad,WhatsApp,167,0
+Product Inquiry,Industrial,Exterior Solutions,"Below ₹10,000",Urgent (Within 1 Week),Coimbatore,Email,95,0
+General Feedback,Commercial,Commercial Services,"₹50,000 - ₹2,00,000",1-3 Months,Bengaluru,WhatsApp,221,0
+Product Inquiry,Commercial,Color Consultation,"₹50,000 - ₹2,00,000",1-4 Weeks,Bengaluru,Phone,133,0
+Bulk Order Inquiry,Industrial,Exterior Solutions,"₹10,000 - ₹50,000",1-3 Months,Madurai,Phone,272,0
+Technical Support,Residential,Color Consultation,"Above ₹10,00,000",1-3 Months,Madurai,Phone,148,1
+Bulk Order Inquiry,Commercial,Color Consultation,"Below ₹10,000",1-4 Weeks,Chennai,Email,42,0
+Dealership Inquiry,Industrial,Exterior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Hyderabad,WhatsApp,348,0
+Bulk Order Inquiry,Commercial,Color Consultation,"₹50,000 - ₹2,00,000",1-3 Months,Mumbai,Email,242,0
+Product Inquiry,Residential,Professional Painting,"Below ₹10,000",Urgent (Within 1 Week),Kochi,WhatsApp,136,0
+Product Inquiry,Residential,Color Consultation,"₹10,000 - ₹50,000",1-3 Months,Hyderabad,Phone,315,0
+Product Inquiry,Industrial,Special Effects & Textures,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Kochi,Phone,118,0
+General Feedback,Commercial,Commercial Services,"₹2,00,000 - ₹10,00,000",1-3 Months,Coimbatore,Email,143,1
+Technical Support,Commercial,Maintenance Program,"Below ₹10,000",1-3 Months,Kochi,WhatsApp,261,0
+Dealership Inquiry,Commercial,Exterior Solutions,"₹50,000 - ₹2,00,000",3+ Months,Kochi,WhatsApp,58,0
+Dealership Inquiry,Residential,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-3 Months,Chennai,WhatsApp,289,0
+Product Inquiry,Industrial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Kochi,Email,177,0
+General Feedback,Residential,Professional Painting,"Above ₹10,00,000",1-4 Weeks,Hyderabad,WhatsApp,263,1
+Product Inquiry,Industrial,Special Effects & Textures,"₹10,000 - ₹50,000",1-4 Weeks,Pune,WhatsApp,152,0
+Bulk Order Inquiry,Industrial,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-4 Weeks,Coimbatore,Phone,190,0
+Bulk Order Inquiry,Residential,Commercial Services,"₹50,000 - ₹2,00,000",1-3 Months,Delhi,Phone,281,0
+Dealership Inquiry,Residential,Professional Painting,"Below ₹10,000",1-4 Weeks,Madurai,Phone,128,0
+Product Inquiry,Residential,Professional Painting,"₹10,000 - ₹50,000",3+ Months,Trivandrum,Email,195,0
+Other,Residential,Maintenance Program,"₹10,000 - ₹50,000",1-4 Weeks,Trivandrum,Email,121,0
+Bulk Order Inquiry,Residential,Commercial Services,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Delhi,Phone,156,1
+Product Inquiry,Industrial,Interior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Mumbai,WhatsApp,63,0
+Bulk Order Inquiry,Commercial,Maintenance Program,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Kochi,Email,65,1
+Other,Industrial,Color Consultation,"₹2,00,000 - ₹10,00,000",1-3 Months,Trivandrum,Email,92,1
+Product Inquiry,Residential,Special Effects & Textures,"Below ₹10,000",1-4 Weeks,Hyderabad,WhatsApp,225,0
+General Feedback,Residential,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-3 Months,Pune,Phone,90,0
+Bulk Order Inquiry,Residential,Professional Painting,"Below ₹10,000",1-4 Weeks,Kochi,Phone,252,0
+Product Inquiry,Commercial,Special Effects & Textures,"Below ₹10,000",1-4 Weeks,Delhi,Email,252,0
+Bulk Order Inquiry,Commercial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Coimbatore,Phone,110,0
+Other,Commercial,Professional Painting,"₹50,000 - ₹2,00,000",1-3 Months,Chennai,WhatsApp,55,0
+Bulk Order Inquiry,Commercial,Maintenance Program,"Above ₹10,00,000",Urgent (Within 1 Week),Mumbai,Phone,201,2
+Product Inquiry,Industrial,Color Consultation,"₹2,00,000 - ₹10,00,000",1-3 Months,Trivandrum,Phone,117,1
+General Feedback,Industrial,Special Effects & Textures,"₹2,00,000 - ₹10,00,000",1-3 Months,Pune,Phone,195,1
+Product Inquiry,Industrial,Exterior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Kochi,WhatsApp,115,0
+Product Inquiry,Industrial,Interior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Coimbatore,Email,266,0
+Bulk Order Inquiry,Industrial,Special Effects & Textures,"Below ₹10,000",1-4 Weeks,Mumbai,WhatsApp,239,0
+Other,Commercial,Commercial Services,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Pune,WhatsApp,322,0
+Product Inquiry,Commercial,Professional Painting,"Below ₹10,000",1-3 Months,Hyderabad,WhatsApp,343,0
+General Feedback,Commercial,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-3 Months,Trivandrum,Phone,230,0
+Product Inquiry,Commercial,Commercial Services,"₹2,00,000 - ₹10,00,000",3+ Months,Chennai,Phone,269,1
+Technical Support,Industrial,Special Effects & Textures,"₹10,000 - ₹50,000",1-3 Months,Trivandrum,WhatsApp,337,0
+Product Inquiry,Industrial,Professional Painting,"₹10,000 - ₹50,000",1-3 Months,Coimbatore,WhatsApp,333,0
+Bulk Order Inquiry,Commercial,Exterior Solutions,"Below ₹10,000",1-4 Weeks,Bengaluru,Email,138,0
+Bulk Order Inquiry,Commercial,Professional Painting,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Kochi,Email,71,2
+General Feedback,Industrial,Commercial Services,"₹10,000 - ₹50,000",1-4 Weeks,Coimbatore,Phone,341,0
+Dealership Inquiry,Industrial,Exterior Solutions,"₹50,000 - ₹2,00,000",3+ Months,Mumbai,Email,290,0
+Dealership Inquiry,Industrial,Color Consultation,"₹10,000 - ₹50,000",1-4 Weeks,Delhi,Phone,302,0
+General Feedback,Residential,Commercial Services,"₹50,000 - ₹2,00,000",3+ Months,Coimbatore,Email,229,0
+Product Inquiry,Residential,Interior Solutions,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Hyderabad,Phone,118,0
+Technical Support,Industrial,Exterior Solutions,"₹10,000 - ₹50,000",1-3 Months,Chennai,Phone,112,0
+Bulk Order Inquiry,Residential,Color Consultation,"₹10,000 - ₹50,000",1-3 Months,Trivandrum,Phone,290,0
+Product Inquiry,Industrial,Exterior Solutions,"Below ₹10,000",1-4 Weeks,Pune,Phone,198,0
+General Feedback,Industrial,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-3 Months,Kochi,Phone,110,0
+Dealership Inquiry,Industrial,Special Effects & Textures,"Below ₹10,000",1-3 Months,Madurai,Phone,85,0
+Technical Support,Industrial,Exterior Solutions,"Above ₹10,00,000",1-4 Weeks,Hyderabad,WhatsApp,63,1
+Product Inquiry,Industrial,Special Effects & Textures,"Below ₹10,000",Urgent (Within 1 Week),Bengaluru,WhatsApp,198,0
+Dealership Inquiry,Residential,Commercial Services,"Below ₹10,000",1-3 Months,Trivandrum,Email,335,0
+Bulk Order Inquiry,Residential,Color Consultation,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Hyderabad,Email,312,1
+Product Inquiry,Residential,Maintenance Program,"₹50,000 - ₹2,00,000",3+ Months,Trivandrum,WhatsApp,267,0
+Technical Support,Commercial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Mumbai,Phone,51,0
+Product Inquiry,Residential,Color Consultation,"₹50,000 - ₹2,00,000",1-4 Weeks,Trivandrum,Email,86,0
+Product Inquiry,Commercial,Exterior Solutions,"Below ₹10,000",1-3 Months,Mumbai,Email,118,0
+Dealership Inquiry,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Bengaluru,Phone,69,1
+Product Inquiry,Residential,Professional Painting,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Delhi,WhatsApp,101,1
+Dealership Inquiry,Residential,Interior Solutions,"₹10,000 - ₹50,000",1-3 Months,Chennai,Phone,237,0
+General Feedback,Industrial,Professional Painting,"₹10,000 - ₹50,000",1-4 Weeks,Chennai,Phone,248,0
+Dealership Inquiry,Industrial,Maintenance Program,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Mumbai,Phone,324,1
+Dealership Inquiry,Residential,Maintenance Program,"₹10,000 - ₹50,000",1-3 Months,Mumbai,Phone,296,0
+Dealership Inquiry,Industrial,Exterior Solutions,"Below ₹10,000",1-4 Weeks,Chennai,Email,256,0
+Bulk Order Inquiry,Residential,Color Consultation,"Above ₹10,00,000",1-3 Months,Kochi,Phone,125,1
+Dealership Inquiry,Industrial,Professional Painting,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Madurai,WhatsApp,219,1
+Product Inquiry,Commercial,Color Consultation,"Below ₹10,000",1-4 Weeks,Coimbatore,WhatsApp,75,0
+Product Inquiry,Commercial,Professional Painting,"Below ₹10,000",1-3 Months,Madurai,WhatsApp,183,0
+Other,Industrial,Interior Solutions,"₹10,000 - ₹50,000",1-3 Months,Kochi,Phone,215,0
+Product Inquiry,Industrial,Interior Solutions,"Above ₹10,00,000",1-4 Weeks,Chennai,WhatsApp,275,1
+Product Inquiry,Residential,Special Effects & Textures,"Above ₹10,00,000",1-3 Months,Mumbai,Phone,42,1
+Dealership Inquiry,Industrial,Color Consultation,"₹50,000 - ₹2,00,000",1-4 Weeks,Bengaluru,WhatsApp,241,0
+Product Inquiry,Commercial,Maintenance Program,"₹2,00,000 - ₹10,00,000",1-3 Months,Coimbatore,WhatsApp,103,1
+Technical Support,Residential,Exterior Solutions,"Below ₹10,000",1-3 Months,Pune,Email,44,0
+General Feedback,Industrial,Special Effects & Textures,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Pune,Email,183,0
+Product Inquiry,Residential,Exterior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Pune,Email,153,0
+Product Inquiry,Residential,Professional Painting,"Above ₹10,00,000",1-3 Months,Coimbatore,Email,147,1
+Bulk Order Inquiry,Residential,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-4 Weeks,Madurai,WhatsApp,322,0
+Dealership Inquiry,Industrial,Color Consultation,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Mumbai,Phone,105,1
+Other,Residential,Maintenance Program,"₹2,00,000 - ₹10,00,000",3+ Months,Chennai,WhatsApp,180,1
+Dealership Inquiry,Residential,Exterior Solutions,"₹50,000 - ₹2,00,000",1-3 Months,Chennai,Phone,272,0
+General Feedback,Commercial,Exterior Solutions,"Above ₹10,00,000",1-4 Weeks,Pune,WhatsApp,305,1
+Bulk Order Inquiry,Commercial,Commercial Services,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Kochi,Phone,182,1
+Product Inquiry,Residential,Special Effects & Textures,"Below ₹10,000",Urgent (Within 1 Week),Delhi,WhatsApp,332,0
+General Feedback,Commercial,Interior Solutions,"Below ₹10,000",1-4 Weeks,Bengaluru,WhatsApp,124,0
+Dealership Inquiry,Industrial,Maintenance Program,"Below ₹10,000",1-4 Weeks,Pune,Phone,52,0
+Product Inquiry,Commercial,Commercial Services,"₹10,000 - ₹50,000",3+ Months,Delhi,Email,67,0
+Bulk Order Inquiry,Industrial,Color Consultation,"₹50,000 - ₹2,00,000",1-3 Months,Bengaluru,Email,268,0
+Other,Residential,Color Consultation,"₹10,000 - ₹50,000",3+ Months,Kochi,Email,73,0
+Technical Support,Industrial,Color Consultation,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Hyderabad,Phone,68,0
+General Feedback,Industrial,Commercial Services,"₹50,000 - ₹2,00,000",1-4 Weeks,Chennai,Phone,346,0
+Technical Support,Commercial,Special Effects & Textures,"₹2,00,000 - ₹10,00,000",3+ Months,Chennai,Phone,91,1
+Dealership Inquiry,Industrial,Special Effects & Textures,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Bengaluru,WhatsApp,46,1
+Bulk Order Inquiry,Commercial,Interior Solutions,"Below ₹10,000",1-3 Months,Coimbatore,Phone,300,0
+Bulk Order Inquiry,Residential,Professional Painting,"₹10,000 - ₹50,000",1-4 Weeks,Hyderabad,WhatsApp,62,0
+General Feedback,Industrial,Commercial Services,"Above ₹10,00,000",1-3 Months,Mumbai,Email,199,1
+General Feedback,Industrial,Commercial Services,"₹50,000 - ₹2,00,000",1-4 Weeks,Mumbai,Email,44,0
+Product Inquiry,Commercial,Interior Solutions,"₹2,00,000 - ₹10,00,000",1-3 Months,Delhi,Email,67,1
+Dealership Inquiry,Industrial,Exterior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Kochi,WhatsApp,136,1
+Dealership Inquiry,Industrial,Interior Solutions,"₹2,00,000 - ₹10,00,000",1-3 Months,Coimbatore,Phone,211,1
+Product Inquiry,Commercial,Professional Painting,"₹10,000 - ₹50,000",1-3 Months,Chennai,WhatsApp,61,0
+Product Inquiry,Commercial,Special Effects & Textures,"₹10,000 - ₹50,000",1-3 Months,Pune,WhatsApp,162,0
+Technical Support,Commercial,Color Consultation,"₹10,000 - ₹50,000",1-3 Months,Bengaluru,Phone,43,0
+Product Inquiry,Industrial,Commercial Services,"Below ₹10,000",1-4 Weeks,Pune,Email,139,0
+Other,Commercial,Special Effects & Textures,"Below ₹10,000",1-4 Weeks,Mumbai,Phone,152,0
+Bulk Order Inquiry,Commercial,Color Consultation,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Chennai,WhatsApp,130,1
+Product Inquiry,Residential,Interior Solutions,"₹50,000 - ₹2,00,000",3+ Months,Kochi,Email,213,0
+Technical Support,Industrial,Exterior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Bengaluru,Email,309,0
+Product Inquiry,Industrial,Exterior Solutions,"Above ₹10,00,000",1-3 Months,Pune,Phone,138,1
+Dealership Inquiry,Industrial,Commercial Services,"Above ₹10,00,000",1-4 Weeks,Delhi,WhatsApp,63,1
+Product Inquiry,Residential,Maintenance Program,"Below ₹10,000",1-4 Weeks,Trivandrum,WhatsApp,183,0
+Bulk Order Inquiry,Industrial,Commercial Services,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Bengaluru,Email,280,1
+Dealership Inquiry,Commercial,Exterior Solutions,"₹2,00,000 - ₹10,00,000",1-3 Months,Trivandrum,Phone,300,1
+Product Inquiry,Industrial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Kochi,Phone,287,0
+Dealership Inquiry,Residential,Professional Painting,"₹50,000 - ₹2,00,000",1-3 Months,Delhi,Phone,58,0
+Bulk Order Inquiry,Industrial,Professional Painting,"₹10,000 - ₹50,000",1-4 Weeks,Pune,Phone,233,0
+Dealership Inquiry,Industrial,Interior Solutions,"Below ₹10,000",Urgent (Within 1 Week),Delhi,WhatsApp,267,1
+Product Inquiry,Commercial,Exterior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Coimbatore,Phone,270,0
+Bulk Order Inquiry,Commercial,Professional Painting,"₹10,000 - ₹50,000",1-4 Weeks,Hyderabad,WhatsApp,131,0
+Product Inquiry,Industrial,Commercial Services,"Above ₹10,00,000",1-4 Weeks,Bengaluru,Phone,296,1
+Other,Industrial,Professional Painting,"Below ₹10,000",Urgent (Within 1 Week),Pune,Email,59,0
+Dealership Inquiry,Residential,Special Effects & Textures,"₹10,000 - ₹50,000",1-3 Months,Madurai,Email,180,0
+Other,Residential,Maintenance Program,"₹2,00,000 - ₹10,00,000",1-3 Months,Hyderabad,Phone,173,1
+Bulk Order Inquiry,Industrial,Maintenance Program,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Chennai,Phone,247,1
+Dealership Inquiry,Residential,Professional Painting,"Above ₹10,00,000",3+ Months,Delhi,Phone,243,1
+Product Inquiry,Industrial,Maintenance Program,"₹50,000 - ₹2,00,000",1-3 Months,Kochi,Phone,279,0
+Bulk Order Inquiry,Residential,Exterior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Kochi,WhatsApp,253,1
+Product Inquiry,Industrial,Color Consultation,"Below ₹10,000",3+ Months,Kochi,WhatsApp,196,0
+Bulk Order Inquiry,Industrial,Commercial Services,"₹10,000 - ₹50,000",1-4 Weeks,Hyderabad,Phone,246,0
+Dealership Inquiry,Residential,Interior Solutions,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Madurai,WhatsApp,111,1
+Bulk Order Inquiry,Commercial,Professional Painting,"Above ₹10,00,000",1-3 Months,Coimbatore,Email,240,1
+Dealership Inquiry,Commercial,Special Effects & Textures,"Below ₹10,000",Urgent (Within 1 Week),Hyderabad,Email,331,1
+Product Inquiry,Commercial,Color Consultation,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Mumbai,Email,348,0
+Product Inquiry,Commercial,Special Effects & Textures,"Above ₹10,00,000",1-4 Weeks,Trivandrum,Email,159,1
+General Feedback,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Mumbai,Email,207,0
+Product Inquiry,Residential,Professional Painting,"₹10,000 - ₹50,000",1-3 Months,Delhi,Phone,239,0
+General Feedback,Industrial,Interior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Madurai,Email,349,0
+Dealership Inquiry,Residential,Exterior Solutions,"₹50,000 - ₹2,00,000",1-4 Weeks,Bengaluru,Phone,43,0
+Dealership Inquiry,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",1-4 Weeks,Kochi,WhatsApp,331,0
+Product Inquiry,Commercial,Special Effects & Textures,"Below ₹10,000",1-3 Months,Hyderabad,Phone,273,0
+Dealership Inquiry,Residential,Commercial Services,"₹2,00,000 - ₹10,00,000",Urgent (Within 1 Week),Coimbatore,Phone,167,2
+Technical Support,Commercial,Special Effects & Textures,"₹50,000 - ₹2,00,000",1-3 Months,Chennai,Email,88,0
+Bulk Order Inquiry,Commercial,Special Effects & Textures,"Below ₹10,000",3+ Months,Bengaluru,WhatsApp,315,0
+Bulk Order Inquiry,Industrial,Color Consultation,"Above ₹10,00,000",3+ Months,Pune,Email,250,1
+Bulk Order Inquiry,Commercial,Professional Painting,"₹50,000 - ₹2,00,000",1-3 Months,Hyderabad,Email,249,0
+Dealership Inquiry,Commercial,Interior Solutions,"₹10,000 - ₹50,000",Urgent (Within 1 Week),Coimbatore,Email,276,1
+Technical Support,Commercial,Special Effects & Textures,"Below ₹10,000",Urgent (Within 1 Week),Kochi,Phone,109,0
+General Feedback,Residential,Exterior Solutions,"Below ₹10,000",1-3 Months,Hyderabad,Email,264,0
+Product Inquiry,Residential,Commercial Services,"Below ₹10,000",Urgent (Within 1 Week),Coimbatore,Email,190,0
+Product Inquiry,Commercial,Interior Solutions,"₹2,00,000 - ₹10,00,000",1-3 Months,Mumbai,Email,118,1
+Bulk Order Inquiry,Industrial,Color Consultation,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Trivandrum,WhatsApp,266,1
+Dealership Inquiry,Commercial,Color Consultation,"₹50,000 - ₹2,00,000",Urgent (Within 1 Week),Madurai,Email,197,1
+Product Inquiry,Commercial,Professional Painting,"₹10,000 - ₹50,000",1-4 Weeks,Delhi,Email,167,0
+Product Inquiry,Industrial,Special Effects & Textures,"Below ₹10,000",Urgent (Within 1 Week),Bengaluru,Email,138,0
+Other,Industrial,Professional Painting,"Below ₹10,000",1-3 Months,Chennai,Phone,125,0
+Dealership Inquiry,Industrial,Professional Painting,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Trivandrum,Phone,137,1
+Other,Commercial,Professional Painting,"Below ₹10,000",1-4 Weeks,Chennai,Phone,222,0
+Dealership Inquiry,Residential,Special Effects & Textures,"Below ₹10,000",1-4 Weeks,Hyderabad,WhatsApp,152,0
+Dealership Inquiry,Commercial,Maintenance Program,"Below ₹10,000",3+ Months,Madurai,Phone,250,0
+Other,Residential,Interior Solutions,"Below ₹10,000",1-4 Weeks,Bengaluru,WhatsApp,331,0
+Technical Support,Commercial,Professional Painting,"₹50,000 - ₹2,00,000",1-4 Weeks,Pune,WhatsApp,108,0
+General Feedback,Commercial,Exterior Solutions,"₹10,000 - ₹50,000",1-3 Months,Trivandrum,WhatsApp,339,0
+Bulk Order Inquiry,Residential,Color Consultation,"₹50,000 - ₹2,00,000",1-3 Months,Madurai,Email,46,0
+Technical Support,Residential,Professional Painting,"₹50,000 - ₹2,00,000",1-3 Months,Pune,Phone,80,0
+Product Inquiry,Residential,Special Effects & Textures,"Below ₹10,000",1-4 Weeks,Madurai,Phone,59,0
+Bulk Order Inquiry,Industrial,Maintenance Program,"₹10,000 - ₹50,000",1-4 Weeks,Coimbatore,WhatsApp,60,0
+Bulk Order Inquiry,Commercial,Professional Painting,"₹2,00,000 - ₹10,00,000",1-4 Weeks,Delhi,WhatsApp,209,1
+Product Inquiry,Industrial,Maintenance Program,"Above ₹10,00,000",3+ Months,Coimbatore,WhatsApp,153,1
